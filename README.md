@@ -1,6 +1,7 @@
 
 ##
-Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
+```diff
+- Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
 
 
 ## Postanowienia ogólne
