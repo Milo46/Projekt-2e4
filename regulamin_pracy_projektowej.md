@@ -46,3 +46,7 @@ gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych
  1.4.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
  
  1.4.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
+ 
+ - - - 
+ ### License
+ MIT © GitHub
