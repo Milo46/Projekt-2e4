@@ -1,6 +1,6 @@
-
 ##
 Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
+
 
 ## Postanowienia ogólne
 
@@ -10,22 +10,35 @@ Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania d
  
  3. Studio projektowe stworzone na potrzeby Projektu jest organizacją o charakterze wolontariackim. 
 Nazwa, stając się rejestrowanym akronimem z dniem 15 października 2020 roku, składa się z pierwszych litery członków Grupy Projektowej: 
-> KLAAJM Studios
+> MAAJKeL Studios
 
- 4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej dalej zwanej Podmiotem Współpracującym nie skutkuje zmianą nazwy handlowej studia projektowego.
+4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej dalej zwanej Podmiotem Współpracującym nie skutkuje zmianą nazwy handlowej studia projektowego.
 
 ## 1. Skład Grupy Projektowej
 
- 1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych oraz Koordynatorem prac z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
+ 1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
+
  1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
  tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
- 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie > Project-WildWestGame pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
+ 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Project-WildWestGame*** pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
 
  1.2.	Nadzorującym zespołu prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
- 1.2.1.	W skład zespołu prac graficznych wchodzą:
- 1.2.1.1 Lena Wojewódzka – do zadań podmiotu należy wstępny sketch, rysunki postaci, prototypy, tworzenie sylwetki postaci, tekstury prefabów, obiektów i innych elementów rozgrywki.
- 1.2.1.2 Albert Belka, uczeń klasy IIe(4) – do zadań podmiotu należy modelling, teksturowanie i tworzenie animacji.
- 1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – main character designer, tekstury prefabów, obiektów i innych elementów rozgrywki, programista.
- 1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
  
- 1.3.	Opiekę nad działaniem Grupy Projektowej, głównym fabularyzatorem gry oraz nadzorcą ścieżki dźwiękowej gry z dniem 12.10.2020 roku staje się Tadam Techner, uczeń klasy IIe(4).
+ 1.2.1.	W skład zespołu prac graficznych wchodzą:
+ 
+ 1.2.1.1 Lena Wojewódzka – do zadań podmiotu należy wstępny sketch, rysunki postaci, prototypy, tworzenie sylwetki postaci, tekstury prefabów, obiektów i innych elementów rozgrywki.
+ 1.2.1.2 Albert Belka, uczeń klasy IIe(4) – do zadań podmiotu należy modelling i teksturowanie postaci, tworzenie animacji, sylwetki bounding box'ów etc.
+ 1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – do zadań podmiotu należy 
+ gałąź nr 1: character design, tekstury prefabów, obiektów i innych elementów rozgrywki; 
+gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding).
+ 
+ 1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
+ 
+ 1.3.	Opiekunem i mentorem Grupy Projektowej, głównym fabularyzatorem gry, twórcą ścieżki dźwiękowej gry oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+ 
+ 1.4 Nadzorującym zespołu programistycznego z dniem 17.10.2020 roku staje się Miłosz Brzechczyn, uczeń klasy IIe(4).
+
+ 1.4.1.	W skład zespołu programistyczno-testowego wchodzą:
+ 
+ 1.4.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
+ 1.4.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
