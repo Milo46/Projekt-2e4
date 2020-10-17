@@ -2,19 +2,6 @@
 ##
 Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
 
-**Table of Contents**
-
-[TOCM]
-
-[TOC]
-
-#H1 header
-##H2 header
-###H3 header
-####H4 header
-#####H5 header
-######H6 header
-
 ## Postanowienia ogólne
 
  1. Regulamin pracy projektowej w kolejnych częściach arkusza dalej nazywa wykonywany projekt gry komputerowej „Projektem”, grupę wykonawczą „Grupą Projektową”, podmioty wykonawcze "Podmiotami" oraz podmioty trzecie „Podmiotami Współpracującymi”.
