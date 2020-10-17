@@ -28,4 +28,4 @@ Nazwa, stając się rejestrowanym akronimem z dniem 15 października 2020 roku, 
  1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – main character designer, tekstury prefabów, obiektów i innych elementów rozgrywki, programista.
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
  
- 1.3.	Opiekę nad działaniem Grupy Projektowej, głównym fabularyzatorem gry oraz nadzorcą ścieżki dźwiękowej gry z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+ 1.3.	Opiekę nad działaniem Grupy Projektowej, głównym fabularyzatorem gry oraz nadzorcą ścieżki dźwiękowej gry z dniem 12.10.2020 roku staje się Tadam Techner, uczeń klasy IIe(4).
