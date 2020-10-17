@@ -17,8 +17,9 @@ Nazwa, stając się rejestrowanym akronimem z dniem 15 października 2020 roku, 
 ## 1. Skład Grupy Projektowej
 
  1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych oraz Koordynatorem prac z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
- 1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych z tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
- 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie > Project-WildWestGame pod nadzorem Koordyntora oraz Miłosza Brzechczyna (punkt 1.4).
+ 1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
+ tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
+ 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie > Project-WildWestGame pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
 
  1.2.	Nadzorującym zespołu prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
  1.2.1.	W skład zespołu prac graficznych wchodzą:
@@ -26,5 +27,5 @@ Nazwa, stając się rejestrowanym akronimem z dniem 15 października 2020 roku, 
  1.2.1.2 Albert Belka, uczeń klasy IIe(4) – do zadań podmiotu należy modelling, teksturowanie i tworzenie animacji.
  1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – main character designer, tekstury prefabów, obiektów i innych elementów rozgrywki, programista.
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
-
+ 
  1.3.	Opiekę nad działaniem Grupy Projektowej, głównym fabularyzatorem gry oraz nadzorcą ścieżki dźwiękowej gry z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
