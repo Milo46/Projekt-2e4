@@ -12,8 +12,10 @@ Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania d
 Nazwa, stając się rejestrowanym akronimem z dniem 15 października 2020 roku, składa się z pierwszych litery członków Grupy Projektowej: 
 > MAAJKeL Studios
 
-4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej dalej zwanej Podmiotem Współpracującym nie skutkuje zmianą nazwy handlowej studia projektowego.
+ 4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej dalej zwanej Podmiotem Współpracującym nie skutkuje zmianą nazwy handlowej studia projektowego.
 
+ 5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
+ 
 ## 1. Skład Grupy Projektowej
 
  1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
@@ -46,6 +48,20 @@ gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych
  1.4.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
  
  1.4.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
+ 
+ ## 2. Cele Projektu
+ 
+ 2.1 Cel ogólny projektu: podniesienie kompetencji kluczowych uczniów zespołu, umożliwiające im aktywne uczestnictwo na rynku pracy.
+ 
+ 2.2 Cele szczegółowe projektu:
+ 
+ 2.2.1 Wsparcie procesu rozwijania poziomu kompetencji kluczowych wśród uczniów w ramach realizacji Projektu.
+ 
+ 2.2.2 Zwiększenie dostępności do pozalekcyjnych i innowacyjnych form rozwijania kompetencji kluczowych.
+ 
+ 2.2.3 Kształtowanie kompetencji kluczowych w zakresie nauczania przedmiotów matematyczno-przyrodniczych, przedsiębiorczości, technologii informacyjno-komunikacyjnych i języków obcych.
+ 
+ 2.2.4 Powiększenie współpracy i wymiany doświadczeń pomiędzy uczniami w Grupie Projektowej.
  
  - - - 
  ### License
