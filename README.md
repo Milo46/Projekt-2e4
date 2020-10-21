@@ -55,13 +55,13 @@ gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych
  
  2.2 Cele szczegółowe projektu:
  
- 2.2.1 Wsparcie procesu rozwijania poziomu kompetencji kluczowych wśród uczniów w ramach realizacji Projektu.
+ - Wsparcie procesu rozwijania poziomu kompetencji kluczowych wśród uczniów w ramach realizacji Projektu.
  
- 2.2.2 Zwiększenie dostępności do pozalekcyjnych i innowacyjnych form rozwijania kompetencji kluczowych.
+ - Zwiększenie dostępności do pozalekcyjnych i innowacyjnych form rozwijania kompetencji kluczowych.
  
- 2.2.3 Kształtowanie kompetencji kluczowych w zakresie nauczania przedmiotów matematyczno-przyrodniczych, przedsiębiorczości, technologii informacyjno-komunikacyjnych i języków obcych.
+ - Kształtowanie kompetencji kluczowych w zakresie nauczania przedmiotów matematyczno-przyrodniczych, przedsiębiorczości, technologii informacyjno-komunikacyjnych i języków obcych.
  
- 2.2.4 Powiększenie współpracy i wymiany doświadczeń pomiędzy uczniami w Grupie Projektowej.
+ - Powiększenie współpracy i wymiany doświadczeń pomiędzy uczniami w Grupie Projektowej.
  
  - - - 
  ### License
