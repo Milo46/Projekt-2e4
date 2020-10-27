@@ -23,7 +23,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
  tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
  
- 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Project-WildWestGame*** pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
+ 1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Projekt-2e4***
+ pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
  - - -
  1.2.	Nadzorującym zespołu prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
  
@@ -63,6 +64,18 @@ gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych
  
  - Powiększenie współpracy i wymiany doświadczeń pomiędzy uczniami w Grupie Projektowej.
  
+ ## 3. Prowadzenie dokumentacji (odn. pkt 1.1.2)
+ 
+ Członkowie Grupy Projektowej mają przynależny obowiązek zgłosić każdorazowe działanie na rzecz Projektu, ponieważ składa się to na podstawę merytoryczną oceny Projektu. Dokumentacja prowadzona przez Koordynatora (nr ewidencji K00916561) zapisywana jest w osobnych plikach (np. sprawozdania projektowe ze spotkań) i pozwala na uporządkowane katalogowanie prowadzonych prac i ich jednoczesny podział na cztery zasadnicze etapy:
+ 
+ - fully concept - w pełni zaprojektowane, gotowe na wprowadzenie w fazę wykonawczą,
+ 
+ - party finished or currently in progress - usytuowane w fazie wykonawczej lub częściowo ukończone,
+ 
+ - already finished - ukończone i działające funkcje,
+ 
+ - not yet begun - niezaczęte bądź niezaprojektowane.
+
  - - - 
  ### License
  MIT © GitHub
