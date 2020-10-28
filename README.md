@@ -35,8 +35,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  1.2.1.2 Albert Belka, uczeń klasy IIe(4) – do zadań podmiotu należy modelling i teksturowanie postaci, tworzenie animacji, sylwetki bounding box'ów etc.
  
  1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – do zadań podmiotu należy 
- gałąź nr 1: character and variety design, content manager; 
-gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding).
+ - gałąź nr 1: character and variety design, content manager; 
+ - gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding).
  
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
   - - -
