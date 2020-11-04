@@ -80,10 +80,11 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 
 Stan na dzień: 4.11.2020 r.
 
-<table style="width:100%">
+<table style="width:115%">
   <tr>
-    <th>Elementy silnika graficznego</th> 
+    <th>Elementy silnika gry</th> 
     <th>Stan zaawansowania</th>
+    <th>Data ukończenia</th>
   </tr>
   <tr>
     <td>wersja 64-bitowa</td>
