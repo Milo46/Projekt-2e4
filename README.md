@@ -76,6 +76,112 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  - not yet begun - niezaczęte bądź niezaprojektowane.
 
+3.1 Rozwój.
+
+Stan na dzień: 4.11.2020 r.
+
+<table style="width:100%">
+  <tr>
+    <th>Firstname</th>
+    <th>Lastname</th> 
+    <th>Age</th>
+  </tr>
+  <tr>
+    <td>Jill</td>
+    <td>Smith</td>
+    <td>50</td>
+  </tr>
+  <tr>
+    <td>Eve</td>
+    <td>Jackson</td>
+    <td>94</td>
+  </tr>
+  <tr>
+    <td>John</td>
+    <td>Doe</td>
+    <td>80</td>
+  </tr>
+</table>
+
+</body>
+</html>
+
+Silnik graficzny:
+LOTUS-Simulator as 64bit version
+File management, addon management
+Script processing
+Plugin interface
+VR support (Oculus Rift and OpenVR)
+Individual keyboard and gamecontroller setup
+Graphics
+Terrain- and surface rendering, vehicles-, buildings- and scenery rendering
+Effects: Dynamic lighting, shadows, shininess, blend effects, normal- and bump mapping, parallax occlusion, heat haze
+Particle system for steam effects
+Vegetation
+Realtime reflections (rear mirrors, environment)
+Physics
+Rail physics and infrastructure
+Coupling, decoupling, train behaviour
+Switches (except for special constructions)
+Catenary (except for span bridges)
+Wheel's physics
+Articulated (bus) physics
+Sounds
+Sound rooms, distinction between inside- and outside sounds
+Play sounds and control per script
+Volume depending on range
+Environmental physics
+Day-night-cycle, sun position
+Weather
+Seasons
+AI
+Pedestrians, passengers, passersby
+Road traffic (simple, complex)
+Scheduled traffic
+Passenger interactions
+Gameplay
+Free train configuration
+Realtime help system upon maloperation, vehicle-individually
+Drive by schedule, tours and routes
+Multiplayer
+Load multiple maps simultaneously
+World for real and world for fictional and semi-real maps
+General gameplay features, like group management, game creation, join game, chat, virtual companies, calendar, ...
+Game leader features: Assign roles, tasks, duties, vehicles, change of the environment
+Headquarters
+Radio
+Configuration of the own appearance in the simulator
+Statistics, rankings, achievements
+
+Content
+
+Map-Editor
+Streets and crossings construction
+Track and switch construction
+Laying splines and polygons
+Placing objects
+Catenaries
+Placing maps on the real world model
+Display world map beneath the terrain
+Import Digital elevation model
+Bridge and tunnel construction
+Free-form and paint terrain
+AI paths
+Further catenaries (span bridges, ...)
+Lines, schedules, tours
+
+Content-Tool
+Comprehensive content management system
+Import of vehicles and scenery objects
+Comprehensive configurations of animation, lightings, vehicle behaviour, even complex car configurations like Z-positions and Jacobs Bogies
+Vehicle scripts and script simulation
+Configuration of displays (matrix etc.) at the vehicle
+Mesh animations
+Particle systems on vehicles
+Comprehensive configurations of materials, including night textures and surfaces
+Modularisation of vehicles, e.g. displays, printers, passenger information
+Repaints
+Vehicle individualisation and details (car numbers, constructor and model information, vehicle-number-specific defects)
 
  ## 4. Środowisko programistyczne
  
