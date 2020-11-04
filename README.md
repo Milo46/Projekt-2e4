@@ -127,7 +127,8 @@ Stan na dzień: 4.11.2020 r.
     <td>not yet begun</td> 
   </tr>
  <tr>
-    <td>efekty, takie jak: dynamiczne oświetlenie, cienie, poświata, blending, normal-mapy</td>
+    <td>efekty, takie jak: dynamiczne oświetlenie, cienie, 
+poświata, blending, normal-mapy</td>
     <td>not yet begun</td> 
   </tr>
  <tr>
