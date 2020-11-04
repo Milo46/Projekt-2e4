@@ -82,32 +82,18 @@ Stan na dzień: 4.11.2020 r.
 
 <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th> 
-    <th>Age</th>
+    <th>Elementy silnika graficznego</th> 
+    <th>Stan zaawansowania</th>
   </tr>
   <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-  <tr>
-    <td>John</td>
-    <td>Doe</td>
-    <td>80</td>
+    <td>wersja 64-bitowa</td>
+    <td>fully concept</td> 
   </tr>
 </table>
 
 </body>
 </html>
 
-Silnik graficzny:
-LOTUS-Simulator as 64bit version
 File management, addon management
 Script processing
 Plugin interface
