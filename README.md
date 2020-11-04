@@ -89,16 +89,32 @@ Stan na dzień: 4.11.2020 r.
     <td>wersja 64-bitowa</td>
     <td>fully concept</td> 
   </tr>
+ <tr>
+    <td>zarządzanie plikami i darmowymi dodatkami</td>
+    <td>fully concept</td> 
+  </tr>
+ <tr>
+    <td>tworzenie skryptów graficznych</td>
+    <td>not yet begun</td> 
+  </tr>
+ <tr>
+    <td>API pluginów</td>
+    <td>not yet begun</td> 
+  </tr>
+ <tr>
+    <td>wsparcie techniki VR</td>
+    <td>not yet begun</td> 
+  </tr>
+ <tr>
+    <td>ustawienie I/O dla urzazeń peryferyjnych</td>
+    <td>fully concept</td> 
+  </tr>
 </table>
 
 </body>
 </html>
 
-File management, addon management
-Script processing
-Plugin interface
-VR support (Oculus Rift and OpenVR)
-Individual keyboard and gamecontroller setup
+
 Graphics
 Terrain- and surface rendering, vehicles-, buildings- and scenery rendering
 Effects: Dynamic lighting, shadows, shininess, blend effects, normal- and bump mapping, parallax occlusion, heat haze
