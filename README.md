@@ -75,76 +75,21 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - already finished - ukończone i działające funkcje,
  
  - not yet begun - niezaczęte bądź niezaprojektowane.
-
-**3.1 Rozwój.** 
-
-Stan na dzień: 4.11.2020 r.
-
-<table style="width:115%">
-  <tr>
-    <th>Elementy silnika gry</th> 
-    <th>Stan zaawansowania</th>
-    <th>Data ukończenia</th>
-  </tr>
-  <tr>
-    <td>wersja 64-bitowa</td>
-    <td>fully concept</td> 
-  </tr>
- <tr>
-    <td>zarządzanie plikami i darmowymi dodatkami</td>
-    <td>fully concept</td> 
-  </tr>
- <tr>
-    <td>tworzenie skryptów graficznych</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>API pluginów</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>wsparcie techniki VR</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>ustawienie I/O dla urzazeń peryferyjnych</td>
-    <td>fully concept</td> 
-  </tr>
-</table>
-
-<table style="width:115%">
-  <tr>
-    <th>Elementy silnika graficznego</th> 
-    <th>Stan zaawansowania</th>
-    <th>Data ukończenia</th>
-  </tr>
-  <tr>
-    <td>rendering terenu i powierzchni</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>rendering scenerii, postaci, trójkątów/map obiektów </td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>efekty, takie jak: dynamiczne oświetlenie, cienie, 
-poświata, blending, normal-mapy</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>prosty system cząsteczek</td>
-    <td>not yet begun</td> 
-  </tr>
- <tr>
-    <td>symultaniczne refleksje powietrzne i środowiskowe</td>
-    <td>not yet begun</td> 
-  </tr>
-</table>
-
+ 
+ Dokładny opis zamierzonych, rozpoczętych, zaplanowanych oraz odrzuconych działań znajduje się w gałęzi ***sranie (do zmiany)***.
 
  ## 4. Środowisko programistyczne
+  w budowie
+  
+ ## 5. Spotkania projektowe
  
+ 5.1 Wszystkie informacje na temat: zmian terminów, zmian założeń, nadzwyczajnych wątków itp. są skrupulatnie dodawane w folderze "dokumentacja_spotkań". Wymaga się od członków Grupy Projektowej regularnego kontrolowania przepływu informacji w repozytorium projektu.
+ 5.1.1 Umieszczenie informacji odbywa się na dwóch kanałach informacyjnych: 
+ - pierwszy - pliki dokumentacyjne w galęzi *main* z rozszerzeniem '.md'. Ich zawartość nie koliduje z postanowieniami w głównym pliku projektowym oraz jest przedłużeniem zasad wyróżnionych w postanowieniach ogólnych. 
+ - drugi - pliki dokumentacyjne w galęzi ***sranie (do zmiany)***. Miejsce to zakłada możliwość zmian dokładnego modelu zawartości oraz zasad działania określonych w głównym pliku projektowym na wniosek Podmiotu (wyłącznie w okresie realizacji danego przedmiotu projektu).
+ 5.2
  
+ ## 6. Coś tam dalej
  
  - - - 
  ### License
