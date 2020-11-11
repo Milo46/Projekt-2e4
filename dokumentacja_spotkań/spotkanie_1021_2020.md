@@ -1,4 +1,4 @@
- <<p> hehehehe lol </p> <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
+ <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
 
 
 **Sprawozdanie ze spotkania**
