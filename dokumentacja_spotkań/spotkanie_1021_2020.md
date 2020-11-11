@@ -1,7 +1,7 @@
 
 <a href="https://imgur.com/c7YOUAI"><img src="https://i.imgur.com/c7YOUAI.jpg" alt="source: imgur.com" width="256" height="256"></a>
 
-## Sprawozdanie
+# Sprawozdanie
 
 **z pracy Komitetu Nadzorującego Prace Projektowe**, w którego skład wchodzą: Krzysztof Wiłnicki, Adam Techner oraz Jan Kuffel.
 
