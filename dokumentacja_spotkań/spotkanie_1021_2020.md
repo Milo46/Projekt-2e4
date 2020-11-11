@@ -3,5 +3,6 @@
 
 ## Sprawozdanie
 
-**z pracy Komitetu Nadzorującego Prace Projektowe**, w którego skład wchodzą: Krzysztof Wiłnicki, Adam Techner oraz Jan Kuffel
+**z pracy Komitetu Nadzorującego Prace Projektowe**, w którego skład wchodzą: Krzysztof Wiłnicki, Adam Techner oraz Jan Kuffel.
+
 W dniu 07.03.2006 r. w Warszawie odbyło się pierwsze spotkanie poświęcone sprawom organizacyjnym związanym z tworzeniem III Komitetu Technicznego.
