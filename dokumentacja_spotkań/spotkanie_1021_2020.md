@@ -1,5 +1,5 @@
 
-<a href="https://imgur.com/c7YOUAI"><img src="https://i.imgur.com/c7YOUAI.jpg" alt="source: imgur.com" width:"128" height:"128"></a>
+<a href="https://imgur.com/c7YOUAI"><img src="https://i.imgur.com/c7YOUAI.jpg" alt="source: imgur.com" width="128" height="128"></a>
 
 ## Sprawozdanie
 
