@@ -1,7 +1,9 @@
  <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
 
 
-**Sprawozdanie ze spotkania**
+h1 {text-align: center;}
+
+<h1>**Sprawozdanie ze spotkania**</h1>
 
 III Komitetu Administracji Dróg Samorządowych i Krajowych Polskiego Kongresu Drogowego
 W dniu 07.03.2006 r. w Warszawie odbyło się pierwsze spotkanie poświęcone sprawom organizacyjnym związanym z tworzeniem III Komitetu Technicznego.
