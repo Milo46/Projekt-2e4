@@ -1,7 +1,14 @@
  <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
-
-
+ 
+<html>
+<head>
+<style>
 h1 {text-align: center;}
+p {text-align: center;}
+div {text-align: center;}
+</style>
+</head>
+<body>
 
 <h1>**Sprawozdanie ze spotkania**</h1>
 
