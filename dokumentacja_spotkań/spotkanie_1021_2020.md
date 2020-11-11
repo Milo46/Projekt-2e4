@@ -1,4 +1,4 @@
-*aaaaaa* <a href="https://imgur.com/aIblsre"> <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
+*                                  * <a href="https://imgur.com/aIblsre"> <img src="https://i.imgur.com/aIblsre.png" alt="logo" style="width:100px;height:128px;"></a>
 
 
 **Sprawozdanie ze spotkania**
