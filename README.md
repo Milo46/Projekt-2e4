@@ -12,7 +12,7 @@ Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania d
 Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 roku, składa się z pierwszych litery członków Grupy Projektowej: 
 > MAAJKeL Studios
 
- 4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej dalej zwanej Podmiotem Współpracującym nie skutkuje zmianą nazwy handlowej studia projektowego.
+ 4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej, dalej zwanej Podmiotem Współpracującym, nie skutkuje zmianą nazwy handlowej studia projektowego.
 
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
  
