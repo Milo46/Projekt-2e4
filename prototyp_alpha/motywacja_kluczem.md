@@ -1,4 +1,4 @@
-Motywujące cytaty:
+**Motywujące cytaty:**
 
 Dopóki nie będziesz cenić siebie, nie będziesz cenić własnego czasu. - M. Scott Peck
 
