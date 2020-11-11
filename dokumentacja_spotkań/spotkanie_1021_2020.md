@@ -12,3 +12,12 @@ Członkowie grupy oraz Podmioty Współpracujące wzięły udział w inaguracji 
 Jednocześnie, wszystkie zaangażowane podmioty wyraziły gotowość podjęcia się aktywnego uczestniczenia w życiu projektu, co skutkuje nałożeniem obowiązku zamieszczania konkretnych działań na rzecz projektu w terminie nie dłuższym niż 14 dni od momentu zadeklarowania swoich działań.
 
 W przypadku niezamieszczenia gotowych efektów wyznaczonego zadania w terminie 14 dni (z możliwością dostosowania terminu do maksymalnie 30 dni - uśrednionego okresu miesiąca), zostaje to odnotowane przez Koordynatora Projektu i kluczowymi stają się eksplikacja oraz komentarz do zaobserwowanego zastoju prac oraz wynikających z niej indyferentyzmu oraz apunktulaności.
+
+- - -
+
+Podsumowanie kolejnych spotkań w postaci sprawozdań zawierać będzie:
+1. datę, miejsce, okoliczność oraz listę obecności spotkania
+2. wypunktowane działania wykonane w okresie do czasu spotkania
+3. wypunktowane działania wykonane w okresie spotkania
+4. wypunktowane, zaplanowane działania wykonane w okresie po spotkaniu
+5. podsumowanie spotkania oraz postanowienia końcowe
