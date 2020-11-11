@@ -1,3 +1,1 @@
-[Imgur](https://i.imgur.com/I9dOlit.png)
-
-![alt text](<https://imgur.com/I9dOlit>)
+<a href="https://imgur.com/I9dOlit"><img src="https://i.imgur.com/I9dOlit.png" title="source: imgur.com" /></a>
