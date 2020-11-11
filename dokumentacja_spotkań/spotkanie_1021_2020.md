@@ -26,6 +26,6 @@ Podsumowanie kolejnych spotkań w postaci sprawozdań zawierać będzie:
 
 Tworzeniem sprawozdań zajmuje się Koordynator Projektu wraz z pomocą merytoryczną Podmiotów należących do Grupy Projektowej. Wszelka chęć zmian wyglądu, formy i postaci sprawozdania musi być zgłoszona do Koordynatora (obowiązkowe poparcie argumentacją).
 
-Wszelkie prawa zastrzeżone.
+**Wszelkie prawa zastrzeżone.**
 
 GitHub/MAAJKeL Studios 2020
