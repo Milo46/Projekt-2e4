@@ -76,7 +76,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  - not yet begun - niezaczęte bądź niezaprojektowane.
 
-**3.1 Rozwój.** ***okres 1-miesięczny***
+**3.1 Rozwój.** 
+***okres 1-miesięczny***
 
 Stan na dzień: 4.11.2020 r.
 
