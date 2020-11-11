@@ -21,3 +21,10 @@ Podsumowanie kolejnych spotkań w postaci sprawozdań zawierać będzie:
 3. wypunktowane działania wykonane w okresie spotkania
 4. wypunktowane, zaplanowane działania wykonane w okresie po spotkaniu
 5. podsumowanie spotkania oraz postanowienia końcowe
+
+- - -
+
+Tworzeniem sprawozdań zajmuje się Koordynator Projektu wraz z pomocą merytoryczną Podmiotów należących do Grupy Projektowej. Wszelka chęć zmian wyglądu, formy i postaci sprawozdania musi być zgłoszona do Koordynatora (obowiązkowe poparcie argumentacją).
+
+Wszelkie prawa zastrzeżone.
+GitHub/MAAJKeL Studios 2020
