@@ -1,5 +1,5 @@
 ##
-<p style="color:DodgerBlue;">Lorem ipsum...</p> Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
+<p style="color:DarkBlue;">Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).</p> 
 
 
 ## Postanowienia ogólne
