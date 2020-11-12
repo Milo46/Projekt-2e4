@@ -87,7 +87,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   - - -
  ### 1.5. Realizacja ścieżki dźwiękowej
  
- 1.5.1 Twórcą ścieżki dźwiękowej gry w zakresie akcji i dopasowania korelantu fabularnego oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+ 1.5.1 Twórcą ścieżki dźwiękowej gry w zakresie akcji i dopasowania korelantu fabularnego oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner.
  
  1.5.2 Twórcą ścieżki dźwiękowej teasera/trailera produktu końcowego oraz charakteryzatorem i analizatorem przestrzeni akustycznych w grze z dniem 12.11.2020 roku staje się Krzysztof Wiłnicki.
  - - -
