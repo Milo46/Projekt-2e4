@@ -1,4 +1,4 @@
-<a href="https://imgur.com/c7YOUAI"><img src="https://i.imgur.com/c7YOUAI.jpg" alt="source: imgur.com" ></a>
+<a href="https://imgur.com/cGlquD1"><img src="https://i.imgur.com/cGlquD1.png" title="source: imgur.com" /></a>
 
 ##
 Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4). 
