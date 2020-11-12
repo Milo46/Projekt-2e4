@@ -20,16 +20,16 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
   # Spis Treści
  - [1. Skład Grupy Projektowej](#1-skład-grupy-projektowej)
-	* [1.1 Przewodniczący Grupy Projektowej](#1-1-przewodniczący-grupy-projektowej)
-	* [1.2. Nadzorująca zespołu prac graficznych](#1-2-nadzorująca-zespołu-prac-graficznych)
-	* [1.3 Opiekun Grupy Projektowej](#1-3-opiekun-grupy-projektowej)
-	* [1.4 Nadzorujący zespołu programistycznego](#1-4-nadzorujący-zespołu-programistycznego)
+	* [1.1 Przewodniczący Grupy Projektowej](#11-przewodniczący-grupy-projektowej)
+	* [1.2. Nadzorująca zespołu prac graficznych](#12-nadzorująca-zespołu-prac-graficznych)
+	* [1.3 Opiekun Grupy Projektowej](#13-opiekun-grupy-projektowej)
+	* [1.4 Nadzorujący zespołu programistycznego](#14-nadzorujący-zespołu-programistycznego)
 
  - [2. Cele Projektu](#2-cele-projektu)
-	* [2.1 Cel ogólny projektu](#2-1-cel-ogólny-projektu)
-	* [2.2 Cele szczegółowe projektu](#2-2-cele-szczegółowe-projektu)
+	* [2.1 Cel ogólny projektu](#21-cel-ogólny-projektu)
+	* [2.2 Cele szczegółowe projektu](#22-cele-szczegółowe-projektu)
 	
- - [3. Prowadzenie dokumentacji](#3-prowadzenie-dokumentacji)
+ - [3. Prowadzenie dokumentacji](#3-prowadzenie-dokumentacji-odn-pkt-112)
  
  - [4. Spotkania projektowe](#4-spotkania-projektowe)
  
