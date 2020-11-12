@@ -18,12 +18,30 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
  
- # Spis Treści
- <!-- toc -->
+  # Spis Treści
+ - [1. Skład Grupy Projektowej](#1-skład-grupy-projektowej)
+	* [1.1 Przewodniczący Grupy Projektowej](#1-1-przewodniczący-grupy-projektowej)
+	* [1.2. Nadzorująca zespołu prac graficznych](#1-2-nadzorująca-zespołu-prac-graficznych)
+	* [1.3 Opiekun Grupy Projektowej](#1-3-opiekun-grupy-projektowej)
+	* [1.4 Nadzorujący zespołu programistycznego](#1-4-nadzorujący-zespołu-programistycznego)
+
+ - [2. Cele Projektu](#2-cele-projektu)
+	* [2.1 Cel ogólny projektu](#2-1-cel-ogólny-projektu)
+	* [2.2 Cele szczegółowe projektu](#2-2-cele-szczegółowe-projektu)
+	
+ - [3. Prowadzenie dokumentacji](#3-prowadzenie-dokumentacji)
  
+ - [4. Spotkania projektowe](#4-spotkania-projektowe)
+ 
+ - [5. Coś tam dalej](#5-coś-tam-dalej)
+	
+===
+
 ## 1. Skład Grupy Projektowej
 
- 1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
+ ### 1.1. Przewodniczący Grupy Projektowej 
+ 
+ Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
 
  1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
  tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
@@ -31,7 +49,9 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Projekt-2e4***
  pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
  - - -
- 1.2.	Nadzorującym zespołu prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
+ ### 1.2. Nadzorująca zespołu prac graficznych 
+ 
+ Osobą nadzorującą zespół prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
  
  1.2.1.	W skład zespołu prac graficznych wchodzą:
  
@@ -45,9 +65,16 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
   - - -
- 1.3.	Opiekunem i mentorem Grupy Projektowej, głównym fabularyzatorem gry, twórcą ścieżki dźwiękowej gry oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+  
+ ### 1.3. Opiekun Grupy Projektowej
+ 
+ Opiekunem i mentorem Grupy Projektowej, głównym fabularyzatorem gry, twórcą ścieżki dźwiękowej gry oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+ 
   - - -
- 1.4 Nadzorującym zespołu programistycznego z dniem 17.10.2020 roku staje się Miłosz Brzechczyn, uczeń klasy IIe(4).
+  
+ ### 1.4 Nadzorujący zespołu programistycznego 
+ 
+ Nadzorującym zespół programistyczny z dniem 17.10.2020 roku staje się Miłosz Brzechczyn, uczeń klasy IIe(4).
 
  1.4.1.	W skład zespołu programistyczno-testowego wchodzą:
  
@@ -55,11 +82,17 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  1.4.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
  
+ - - -
+ 
  ## 2. Cele Projektu
  
- 2.1 Cel ogólny projektu: podniesienie kompetencji kluczowych uczniów zespołu, umożliwiające im aktywne uczestnictwo na rynku pracy.
+ ### 2.1 Cel ogólny projektu
  
- 2.2 Cele szczegółowe projektu:
+ Podniesienie kompetencji kluczowych uczniów zespołu, umożliwiające im aktywne uczestnictwo na rynku pracy.
+ 
+ - - -
+ 
+ ### 2.2 Cele szczegółowe projektu
  
  - Wsparcie procesu rozwijania poziomu kompetencji kluczowych wśród uczniów w ramach realizacji Projektu.
  
@@ -68,6 +101,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - Kształtowanie kompetencji kluczowych w zakresie nauczania przedmiotów matematyczno-przyrodniczych, przedsiębiorczości, technologii informacyjno-komunikacyjnych i języków obcych.
  
  - Powiększenie współpracy i wymiany doświadczeń pomiędzy uczniami w Grupie Projektowej.
+ 
+ - - - 
  
  ## 3. Prowadzenie dokumentacji (odn. pkt 1.1.2)
  
