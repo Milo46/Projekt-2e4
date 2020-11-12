@@ -1,7 +1,7 @@
 <a href="https://imgur.com/cGlquD1"><img src="https://i.imgur.com/cGlquD1.png" title="source: imgur.com" /></a>
 
 ##
-Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4). 
+Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
 
 
 ## Postanowienia ogólne
@@ -17,6 +17,9 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  4. Opuszczenie Grupy Projektowej przez jednostkę lub wstąpienie osoby trzeciej, dalej zwanej Podmiotem Współpracującym, nie skutkuje zmianą nazwy handlowej studia projektowego.
 
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
+ 
+ #Spis Treści
+ <!-- toc -->
  
 ## 1. Skład Grupy Projektowej
 
