@@ -21,9 +21,11 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   # Spis Treści
  - [1. Skład Grupy Projektowej](#1-skład-grupy-projektowej)
 	* [1.1 Przewodniczący Grupy Projektowej](#11-przewodniczący-grupy-projektowej)
-	* [1.2. Nadzorująca zespołu prac graficznych](#12-nadzorująca-zespołu-prac-graficznych)
-	* [1.3 Opiekun Grupy Projektowej](#13-opiekun-grupy-projektowej)
-	* [1.4 Nadzorujący zespołu programistycznego](#14-nadzorujący-zespołu-programistycznego)
+	* [1.2 Nadzór zespołu prac graficznych](#12-nadzór-zespołu-prac-graficznych)
+	* [1.3 Nadzór zespołu programistycznego](#13-nadzór-zespołu-programistycznego)
+	* [1.4 Opieka nad Grupą Projektową](#14-opieka-nad-grupą-projektową)
+	* [1.5 Realizacja ścieżki dźwiękowej](#15-realizacja-ścieżki-dźwiękowej)
+
 
  - [2. Cele Projektu](#2-cele-projektu)
 	* [2.1 Cel ogólny projektu](#21-cel-ogólny-projektu)
@@ -49,7 +51,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Projekt-2e4***
  pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
  - - -
- ### 1.2. Nadzorująca zespołu prac graficznych 
+ ### 1.2. Nadzór zespołu prac graficznych 
  
  Osobą nadzorującą zespół prac graficznych z dniem 9.10.2020 roku staje się Lena Wojewódzka, uczeń klasy IIe(4).
  
@@ -64,24 +66,30 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding).
  
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
-  - - -
-  
- ### 1.3. Opiekun Grupy Projektowej
  
- Opiekunem i mentorem Grupy Projektowej, głównym fabularyzatorem gry, twórcą ścieżki dźwiękowej gry oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
- 
-  - - -
   
- ### 1.4 Nadzorujący zespołu programistycznego 
+ ### 1.3 Nadzór zespołu programistycznego
  
  Nadzorującym zespół programistyczny z dniem 17.10.2020 roku staje się Miłosz Brzechczyn, uczeń klasy IIe(4).
 
- 1.4.1.	W skład zespołu programistyczno-testowego wchodzą:
+ 1.3.1.	W skład zespołu programistyczno-testowego wchodzą:
  
- 1.4.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
+ 1.3.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
  
- 1.4.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
+ 1.3.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
  
+  - - -
+  
+ ### 1.4. Opieka nad Grupą Projektową
+ 
+ Opiekunem i mentorem Grupy Projektowej z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4). Podmiot odpowiada za "przynoszenie ciasteczek" oraz zachowywanie pozorów dobrej atmosfery, co jest ekwiwalentem obowiązku rozwiązywania wszelkich problemów zaistniałych w Grupie Projektowej.
+ 
+  - - -
+ ### 1.5. Realizacja ścieżki dźwiękowej
+ 
+ 1.5.1 Twórcą ścieżki dźwiękowej gry w zakresie akcji i dopasowania korelantu fabularnego oraz głównym projektantem efektów dźwiękowych i przestrzeni akustycznych w grze z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4).
+ 
+ 1.5.2 Twórcą ścieżki dźwiękowej teasera/trailera produktu końcowego oraz charakteryzatorem i analizatorem przestrzeni akustycznych w grze z dniem 12.11.2020 roku staje się Krzysztof Wiłnicki.
  - - -
  
  ## 2. Cele Projektu
@@ -117,6 +125,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - not yet begun - niezaczęte bądź niezaprojektowane.
  
  Dokładny opis zamierzonych, rozpoczętych, zaplanowanych oraz odrzuconych działań znajduje się w gałęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).
+ 
+ - - -
   
  ## 4. Spotkania projektowe
  
