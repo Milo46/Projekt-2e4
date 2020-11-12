@@ -18,7 +18,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
  
- #Spis Treści
+ # Spis Treści
  <!-- toc -->
  
 ## 1. Skład Grupy Projektowej
