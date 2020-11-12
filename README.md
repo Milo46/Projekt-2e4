@@ -88,8 +88,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  5.1 Wszystkie informacje na temat: zmian terminów, zmian założeń, nadzwyczajnych wątków itp. są skrupulatnie dodawane w folderze "dokumentacja_spotkań". Wymaga się od członków Grupy Projektowej regularnego kontrolowania przepływu informacji w kolejnych folderach repozytorium projektu.
  
  5.1.1 Umieszczenie informacji odbywa się na dwóch kanałach informacyjnych: 
- - pierwszy - pliki dokumentacyjne w galęzi [main](https://github.com/Milo46/Projekt-2e4/main) z rozszerzeniem '.md'. Ich zawartość nie koliduje z postanowieniami w głównym pliku projektowym oraz jest przedłużeniem zasad wyróżnionych w postanowieniach ogólnych. 
- - drugi - pliki dokumentacyjne w galęzi ***sranie (do zmiany)***. Miejsce to zakłada możliwość zmian dokładnego modelu zawartości oraz zasad działania określonych w głównym pliku projektowym na wniosek Podmiotu (wyłącznie w okresie realizacji danego przedmiotu projektu).
+ - pierwszy - pliki dokumentacyjne w galęzi [main](https://github.com/Milo46/Projekt-2e4) z rozszerzeniem '.md'. Ich zawartość nie koliduje z postanowieniami w głównym pliku projektowym oraz jest przedłużeniem zasad wyróżnionych w postanowieniach ogólnych. 
+ - drugi - pliki dokumentacyjne w galęzi [main](https://github.com/Milo46/Projekt-2e4). Miejsce to zakłada możliwość zmian dokładnego modelu zawartości oraz zasad działania określonych w głównym pliku projektowym na wniosek Podmiotu (wyłącznie w okresie realizacji danego przedmiotu projektu).
  
  5.2 Główne postanowienia dot. pierwszego z ww. kanałów informacji umieszczone są w pliku [spotk_102120.md](https://github.com/Milo46/Projekt-2e4/blob/main/dokumentacja_spotka%C5%84/spotk_102120.md). Ich treść została ukształtowana w trakcie dwóch spotkań o kolejnych numerach: 102120 oraz 102820.
  
