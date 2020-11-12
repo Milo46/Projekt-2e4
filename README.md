@@ -20,7 +20,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
 ## 1. Skład Grupy Projektowej
 
- ⋅⋅1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
+ 1.1.	Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
 
  1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
  tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
