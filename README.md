@@ -96,4 +96,4 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  ### License
  MIT © GitHub
 
-<a href="https://imgur.com/B09CnlV"><img src="https://i.imgur.com/B09CnlVm.png" title="source: imgur.com" /></a>
+<a href="https://imgur.com/ZTJCO6z"><img src="https://i.imgur.com/ZTJCO6zm.png" title="source: imgur.com" /></a>
