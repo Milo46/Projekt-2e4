@@ -1,7 +1,9 @@
-<a href="https://imgur.com/cGlquD1"><img src="https://i.imgur.com/cGlquD1.png" title="source: imgur.com" /></a>
+# Projekt 2e4 [![License]("https://img.shields.io/badge/license-MIT-greensvg")](LICENSE.txt)
+
+![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
 ##
-Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
+Projekt gry komputerowej na potrzeby przedmiotu `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
 
 ***7 października 2020 roku***
 
@@ -106,7 +108,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 
  1.3.1.	W skład zespołu programistyczno-testowego wchodzą:
  
- 1.3.1.1 Miłosz Brzechczyn - do zadań podmiotu należy tworzenie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
+ 1.3.1.1 Miłosz Brzechczyn - do zadań podmiotu należy usuwanie kodu źródłowego gry oraz wydawanie i publikowanie kolejnych wersji gry.
  
  1.3.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
  
@@ -234,9 +236,6 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  
  - - - 
- 
- ### License
- MIT © GitHub
  
  ### The End
  
