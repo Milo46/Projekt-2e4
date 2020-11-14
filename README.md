@@ -1,4 +1,4 @@
-### Projekt 2e4 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) [![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4)
+## Projekt 2e4 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) [![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4)
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
