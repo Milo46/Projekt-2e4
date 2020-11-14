@@ -178,7 +178,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   Pierwszy miesiąc działalności projektowej obfitował w pomysły, koncepty, idee, zażalenia, wnioski, skargi oraz terror nawiązujące do finalnego efektu dyskusji. Dyskusja ta nie odbywała się na ogólnym forum projektu, lecz w specjalnie przygotowanych plikach ankietowych, do których stworzenia (dnia 18.10.2020 r.) zobowiązany został Jan Kuffel.
   
-  <a href="https://imgur.com/Er2L5kv"><img src="https://i.imgur.com/Er2L5kv.png" title="source: imgur.com" /></a>
+  <a href="https://imgur.com/Wm0LNXA"><img src="https://i.imgur.com/Wm0LNXA.png" title="source: imgur.com" /></a>
   
   *Ankieta przedstawiająca ostateczny zarys fabularno-realizatorski z wyłączeniem zgadanień robotniczo-programistyczno-wykonawczych.*
   *Faktyczny postęp nad grą rejestrowany będzie w galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).*
