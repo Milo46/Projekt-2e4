@@ -6,7 +6,7 @@
 
 [![Welcome!](https://img.shields.io/badge/witamy%20na%20głównej%20stronie%20repozytorium-Projekt%202e4-blueviolet?logo=chartmogul)](https://github.com/Milo46/Projekt-2e4)
 
-[![Branches!](https://img.shields.io/badge/możesz%20także%20przejść%20do%20wyboru%20gałęzi-branches__ver--1.0-9cf?logo=open-badges)](https://github.com/Milo46/Projekt-2e4/branches)
+[![Branches!](https://img.shields.io/badge/możesz%20także%20przejść%20do%20wyboru%20gałęzi-branches__ver__1.0-9cf?logo=open-badges)](https://github.com/Milo46/Projekt-2e4/branches)
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
