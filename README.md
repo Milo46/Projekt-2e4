@@ -1,4 +1,4 @@
-# Projekt 2e4 [![License]("https://img.shields.io/badge/license-MIT-greensvg")](LICENSE.txt)
+# Projekt 2e4 [![License]("https://img.shields.io/badge/license-MIT-green.svg")](LICENSE.txt)
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
