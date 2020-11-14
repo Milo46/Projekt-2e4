@@ -1,4 +1,4 @@
-# Projekt 2e4 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt)
+# Projekt 2e4 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) ![GitHub All Releases](https://img.shields.io/github/downloads/Milo46/Projekt-2e4/total)
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
