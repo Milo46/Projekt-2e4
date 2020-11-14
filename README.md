@@ -1,4 +1,7 @@
-## Projekt 2e4 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) [![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4)
+# Projekt 2e4 
+[![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4) [![Downloads](https://img.shields.io/badge/downloads-0-blue)]     [![Last Commit](https://img.shields.io/badge/last%20commit-14.11.20-ff69b4)] [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) 
+
+[![hehe](https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>)]
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
