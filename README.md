@@ -3,6 +3,7 @@
 ##
 Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
 
+***7 października 2020 roku***
 
 ## Postanowienia ogólne
 
@@ -19,13 +20,15 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
  
   # Spis Treści
+ 
+ #### O PROJEKCIE, CZŁOWIEKU i PRZYGODACH
+ 
  - [1. Skład Grupy Projektowej](#1-skład-grupy-projektowej)
 	* [1.1 Przewodniczący Grupy Projektowej](#11-przewodniczący-grupy-projektowej)
 	* [1.2 Nadzór zespołu prac graficznych](#12-nadzór-zespołu-prac-graficznych)
 	* [1.3 Nadzór zespołu programistycznego](#13-nadzór-zespołu-programistycznego)
 	* [1.4 Opieka nad Grupą Projektową](#14-opieka-nad-grupą-projektową)
 	* [1.5 Realizacja ścieżki dźwiękowej](#15-realizacja-ścieżki-dźwiękowej)
-
 
  - [2. Cele Projektu](#2-cele-projektu)
 	* [2.1 Cel ogólny projektu](#21-cel-ogólny-projektu)
@@ -34,12 +37,41 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - [3. Prowadzenie dokumentacji](#3-prowadzenie-dokumentacji-odn-pkt-112)
  
  - [4. Spotkania projektowe](#4-spotkania-projektowe)
- 
- - [5. Coś tam dalej](#5-coś-tam-dalej)
 	
+ #### O GRZE, FABULE i WSZYSTKIM INNYM, CZEGO CHCEMY JAKO GRACZE
+	
+ - [5. Postać i typ gry](#5-postać-i-typ-gry)
+  
+ - [6. Fabuła gry](#6-fabuła-gry)
+ 
+	* [6.1 Wstęp narracyjny](#61-wstęp-narracyjny)
+	
+ - [7. Bohaterowie](#7-bohaterowie)
+  
+	* [7.1 Koncept postaci](#71-koncept-postaci)
+	* [7.2 Kreacja postaci](#72-kreacja-postaci)
+	* [7.3 Interakcja z odbiorcą](#73-interakcja-z-odbiorcą)
+	* [7.4 Odtwórczość fabularna](#74-odtwórczość-fabularna)
+	
+ - [8. inne](#8-inne)
+  
+ - [9. cuda](#9-cuda)
+  
+ - [10. Podsumowanie](#10-podsumowanie)
+ 
+	* [10.1 Fabuła i prawa autorskie](#101-fabuła-i-prawa-autorskie)
+	* [10.2 Bohaterowie i prawa autorskie](#102-bohaterowie-i-prawa-autorskie)
+	* [10.3 Postanowienia końcowe](#103-postanowienia-końcowe)
+  
+ #### O ŚRODOWISKU, LICENCJACH i INNYCH URZĘDOWYCH PRZESZKODACH, CZEGO JAKO GRACZE WIEDZIEĆ NIE CHCEMY
+ 
+ - [11. Środowisko socjalno-programistyczne](#11-środowisko-socjalno-programistyczne)
+  
+  
 ===
-
-## 1. Skład Grupy Projektowej
+# O PROJEKCIE, CZŁOWIEKU i PRZYGODACH
+ 
+ ## 1. Skład Grupy Projektowej
 
  ### 1.1. Przewodniczący Grupy Projektowej 
  
@@ -128,7 +160,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  - - -
   
- ## 4. Spotkania projektowe
+## 4. Spotkania projektowe
  
  4.1 Wszystkie informacje na temat: zmian terminów, zmian założeń, nadzwyczajnych wątków itp. są skrupulatnie dodawane w folderze "dokumentacja_spotkań". Wymaga się od członków Grupy Projektowej regularnego kontrolowania przepływu informacji w kolejnych folderach repozytorium projektu.
  
@@ -138,10 +170,77 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  4.2 Główne postanowienia dot. pierwszego z ww. kanałów informacji umieszczone są w pliku [spotk_102120.md](https://github.com/Milo46/Projekt-2e4/blob/main/dokumentacja_spotka%C5%84/spotk_102120.md). Ich treść została ukształtowana w trakcie dwóch spotkań o kolejnych numerach: 102120 oraz 102820.
  
- ## 5. Coś tam dalej
-  w budowie
+===
+ 
+# O GRZE, FABULE i WSZYSTKIM INNYM, CZEGO CHCEMY JAKO GRACZE
+  
+  Pierwszy miesiąc działalności projektowej obfitował w pomysły, koncepty, idee, zażalenia, wnioski, skargi oraz terror nawiązujące do finalnego efektu dyskusji. Dyskusja ta nie odbywała się na ogólnym forum projektu, lecz w specjalnie przygotowanych plikach ankietowych, do których stworzenia (dnia 18.10.2020 r.) zobowiązany został Jan Kuffel.
+  
+  <a href="https://imgur.com/Er2L5kv"><img src="https://i.imgur.com/Er2L5kv.png" title="source: imgur.com" /></a>
+  
+  *Ankieta przedstawiająca ostateczny zarys fabularno-realizatorski z wyłączeniem zgadanień robotniczo-programistyczno-wykonawczych.*
+  *Faktyczny postęp nad grą rejestrowany będzie w galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).*
+  *Nie gwarantujemy dokładnej zgodności opisu z finalną wersją gry. To nie nasza wina, że wymyślamy za dużo rzeczy.*
+  
+  - - -
+  
+  ## 5. Postać i typ gry
+  
+  - - -
+  
+  ## 6. Fabuła gry
+  
+  ### 6.1 Wstęp narracyjny
+  
+  - - -
+  
+  ## 7. Bohaterowie
+  
+  ### 7.1 Koncept postaci
+  
+  ### 7.2 Kreacja postaci
+  
+  ### 7.3 Interakcja z odbiorcą
+  
+  ### 7.4 Odtwórczość fabularna
+  
+  - - -
+  
+  ## 8. inne
+  
+  - - -
+  
+  ## 9. Cuda
+  
+  - - -
+  
+  ## 10. Podsumowanie
+  
+  ### 10.1 Fabuła i prawa autorskie 
+  
+  ### 10.2 Bohaterowie i prawa autorskie 
+  
+  ### 10.3 Postanowienia końcowe 
+  
+===
+ 
+ # O ŚRODOWISKU, LICENCJACH i INNYCH URZĘDOWYCH PRZESZKODACH
+ 
+  ## 11. Środowisko socjalno-programistyczne
+  
+  Informacje o środowisku programistycznym gry znajdują się w dokumentacji galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp). 
+  
+  Praca nad Projektem odbywa się w warunkach domowych, z zachowaniem wszelkich (dostosowanych do obecnej sytuacji) wymogów sanitarnych dot. przebywania młodzieży szkolnej do 18 r. ż. przed ekranem stacji roboczych lub urządzeń telekomunikacyjnych 
+ 
+ 
  - - - 
+ 
  ### License
  MIT © GitHub
-
+ 
+ ### The End
+ 
+ *Materiał został przygotowany ręcznie, autor ma do niego pełne prawa autorskie, wykorzystanie tekstu w zamiarach nieedukacyjnych grozi odpowiedzialnością karną.*
+ MAAJKeL Studios/GitHub © Copyright 2020-2021
+ 
 <a href="https://imgur.com/ZTJCO6z"><img src="https://i.imgur.com/ZTJCO6zm.png" title="source: imgur.com" /></a>
