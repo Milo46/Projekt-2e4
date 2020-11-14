@@ -1,7 +1,7 @@
 # Projekt 2e4 
 [![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4) [![Downloads](https://img.shields.io/badge/downloads-0-blue)]()   [![Last Commit](https://img.shields.io/badge/last%20commit-14.11.20-ff69b1)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) 
 
-#ffff00
+[![Welcome!](https://img.shields.io/badge/welcome%20in-Projekt%202e4?labelColor=ffff00&?color=4e9ef5)](https://github.com/Milo46/Projekt-2e4)
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
@@ -104,6 +104,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
  
+ - - -
   
  ### 1.3 Nadzór zespołu programistycznego
  
