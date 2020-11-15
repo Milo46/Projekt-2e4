@@ -29,6 +29,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 
  5. Zakres projektu obejmuje zaprojektowanie, wykreowanie, wytworzenie i testowanie produkutu końcowego - gry komputerowej .
  
+ 6. Dokumentacja powinna być ogólnie poważna i nie powinna zawierać w sobie elementów o charakterze humorystycznym.
+ 
   # Spis Treści
  
  #### O PROJEKCIE, CZŁOWIEKU i PRZYGODACH
@@ -87,11 +89,11 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  Przewodniczącym Grupy Projektowej, głównym Nadzorującym prac projektowych, Koordynatorem prac, twórcą pobocznym ścieżki dźwiękowej, efektów z dniem 7.10.2020 roku staje się Krzysztof Wiłnicki, uczeń klasy IIe(4).
 
- 1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy między podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
+ 1.1.1.	Do zadań podmiotu należy wyszukiwanie najkorzystniejszych dróg współpracy pomiędzy podmiotami Grupy Projektowej, zbieranie źródeł wiedzy tematycznie ekwiwalentnych
  tematyką Projektu oraz przeprowadzanie cotygodniowej analizy, obserwacji oraz zapisu dokumentacyjnego zebranych wniosków.
  
  1.1.2.	Zapis dokumentacyjny, tworzenie wątków oraz gałęzi informacyjno-technicznych odbywa się na platforme GitHub (na Licencji open-source MIT) w projekcie ***Projekt-2e4***
- pod nadzorem Koordynatora oraz Miłosza Brzechczyna (punkt 1.4).
+ pod nadzorem Koordynatora oraz Miłosza Brzechczyn (Tak Krzysiek, moje nazwisko się NIE odmienia) (punkt 1.4).
  - - -
  ### 1.2. Nadzór zespołu prac graficznych 
  
@@ -121,11 +123,13 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  1.3.1.2 Jan Kuffel, uczeń klasy IIe(4) - zadania podmiotu wymienione w punkcie 1.2.1.3; ponadto sub-work w tworzeniu efektów dźwiękowych oraz projektowaniu przestrzeni akustycznych w grze.
  
+ 1.3.2. Członkowie zespołu mają zakaz używania podświetlanych myszek/klawiatur ze względu na oszczędzanie prądu.
+ 
   - - -
   
  ### 1.4. Opieka nad Grupą Projektową
  
- Opiekunem i mentorem Grupy Projektowej z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4). Podmiot odpowiada za "przynoszenie ciasteczek" oraz zachowywanie pozorów dobrej atmosfery, co jest ekwiwalentem obowiązku rozwiązywania wszelkich problemów zaistniałych w Grupie Projektowej.
+ Opiekunem i mentorem Grupy Projektowej z dniem 12.10.2020 roku staje się Adam Techner, uczeń klasy IIe(4). Podmiot odpowiada za "przynoszenie ciasteczek" oraz zachowywanie pozorów, POZORÓW, dobrej atmosfery, co jest ekwiwalentem obowiązku rozwiązywania wszelkich problemów zaistniałych w Grupie Projektowej.
  
   - - -
  ### 1.5. Realizacja ścieżki dźwiękowej
@@ -139,7 +143,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  ### 2.1 Cel ogólny projektu
  
- Podniesienie kompetencji kluczowych uczniów zespołu, umożliwiające im aktywne uczestnictwo na rynku pracy.
+ Podniesienie kompetencji kluczowych uczniów zespołu, umożliwiające im aktywne uczestnictwo na rynku pracy. Poznanie najważniejszych elementów pracy w grupie.
  
  - - -
  

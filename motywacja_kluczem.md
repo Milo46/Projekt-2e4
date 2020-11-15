@@ -8,6 +8,8 @@ Jeśli nie czujesz się godny, by wyrosły Ci skrzydła, nigdy nie oderwiesz si�
 
 Jeśli potrafisz o czymś marzyć, to potrafisz także tego dokonać. - Walt Disney
 
+Yyyy, nie poddawaj się. - Miłosz Brzechczyn
+
 Ludzie są dokładnie tak szczęśliwi, jak myślą, że są. - Abraham Lincoln
 
 Potykając się, można zajść daleko; nie wolno tylko upaść i nie podnieść się. - Goethe
@@ -17,6 +19,8 @@ Prawdziwy akt odkrycia nie polega na odnajdywaniu nowych lądów, lecz na patrze
 Przeciwności, z którymi musimy się zmierzyć, często sprawiają, że stajemy się silniejsi. A to, co dziś wydaje się stratą, jutro może okazać się zyskiem. - Nick Vujicic
 
 Ludzie, którzy tracą czas czekając, aż zaistnieją najbardziej sprzyjające warunki, nigdy nic nie zdziałają. Najlepszy czas na działanie jest teraz! - Mark Fisher
+
+Nowe osiągnięcia dają ci więcej powodów do dumy z siebie samego, co jest napędem do dążenia dalej - również Miłosz Brzechczyn (zmarnowałem na to z ok. 15 minut)
 
 Mądrzy ciągle się uczą, głupcy najczęściej wszystko umieją. - Apolinary Despinoix
 
