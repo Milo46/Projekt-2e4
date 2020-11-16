@@ -8,7 +8,7 @@
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
-[[UNITY](<a href="https://imgur.com/GqmnY1v"><img src="https://i.imgur.com/GqmnY1v.png" title="source: imgur.com" /></a>)](https://unity.com)
+[(<a href="https://imgur.com/GqmnY1v"><img src="https://i.imgur.com/GqmnY1v.png" title="source: imgur.com" /></a>)](https://unity.com)
 
 ##
 Projekt gry komputerowej na potrzeby przedmiotu `u_proj => elementy projektowania dla szkół ponadpodstawowych` w wykonaniu 6-osobowej grupy z klasy IIe(4).
