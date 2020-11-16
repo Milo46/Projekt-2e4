@@ -2,7 +2,7 @@
 
 - - -
 
-[![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4) [![Downloads](https://img.shields.io/badge/downloads-0-blue)]()   [![Last Commit](https://img.shields.io/badge/last%20commit-14.11.20-ff69b1)]() [![Windows](https://img.shields.io/badge/Windows%2010-passing-succes?logo=microsoft)]() [![MacOS](https://img.shields.io/badge/MacOS%20X-not%20planned-red?logo=apple)]() [![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%2020__10-not%20planned-red?logo=ubuntu)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) 
+[![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4) [![Downloads](https://img.shields.io/badge/downloads-0-blue)]()   [![Last Commit](https://img.shields.io/badge/last%20commit-14.11.20-ff69b1)]() [![Windows](https://img.shields.io/badge/Windows%2010-passing-succes?logo=microsoft)](https://www.microsoft.com/pl-pl/software-download/windows10%20) [![MacOS](https://img.shields.io/badge/MacOS%20X-not%20planned-red?logo=apple)](https://pl.wikipedia.org/wiki/MacOS) [![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%2020__10-not%20planned-red?logo=ubuntu)](https://ubuntu.com) [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) 
 
 [![Welcome!](https://img.shields.io/badge/witamy%20na%20głównej%20stronie%20repozytorium-Projekt%202e4-blueviolet?logo=chartmogul)](https://github.com/Milo46/Projekt-2e4)
 
