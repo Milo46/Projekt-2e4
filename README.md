@@ -8,6 +8,8 @@
 
 ![MAAJKeL Studios](logo/logo.png?raw=true "MAAJKeL Studios")
 
+https://img.shields.io/github/last-commit/Milo46/Projekt-2e4
+
 [<img src="https://i.imgur.com/GqmnY1v.png" title="source: imgur.com" /></a>](https://unity.com)
 
 ##
