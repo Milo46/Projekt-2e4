@@ -192,7 +192,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   <a href="https://imgur.com/Wm0LNXA"><img src="https://i.imgur.com/Wm0LNXA.png" title="source: imgur.com" /></a>
   
   *Ankieta przedstawiająca ostateczny zarys fabularno-realizatorski z wyłączeniem zgadanień robotniczo-programistyczno-wykonawczych.*
-  *Faktyczny postęp nad grą rejestrowany będzie w galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).*
+  *Faktyczny postęp nad grą rejestrowany będzie w gałęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).*
   *Nie gwarantujemy dokładnej zgodności opisu z finalną wersją gry. To nie nasza wina, że wymyślamy za dużo rzeczy.*
   
   - - -
@@ -204,6 +204,11 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   ## 6. Fabuła gry
   
   ### 6.1 Wstęp narracyjny
+  
+  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater - *imie* - pamięta dokładnie 
+  
+  
+  gościu se trafia do lochu, wymazujo pamiec i nic nie pamieta!!!!!!!!, tak naprawde był nowo wybranym przywodca z checia zmian w panstwie ale jego podwladni poddali go terapii relaksujacej ktora doprowadzila do utraty pamieci, nastepenie wpooili mu nowy system wartosci tak azeby wrocil tamten stary system taki komunistyczny, ReInDoKtRyNaCjA,
   
   - - -
   
