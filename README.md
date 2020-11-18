@@ -8,7 +8,7 @@
 
 [![reposize](https://img.shields.io/github/repo-size/Milo46/Projekt-2e4?style=social)]()
 
-[![MAAJKeL Studios](<img src="https://i.imgur.com/s9BGGwc.png" title="source: imgur.com" /></a>)]
+[<img src="https://i.imgur.com/s9BGGwc.png" title="source: imgur.com"></a>]
 
 [<img src="https://i.imgur.com/GqmnY1v.png" title="source: imgur.com" /></a>](https://unity.com)
 
