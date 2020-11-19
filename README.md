@@ -4,7 +4,7 @@
 
 [![Project Version](https://img.shields.io/badge/version-1.0.1-black)](https://github.com/Milo46/Projekt-2e4) [![Downloads](https://img.shields.io/github/downloads/Milo46/Projekt-2e4/total)]()   [![Last Commit](https://img.shields.io/github/last-commit/Milo46/Projekt-2e4?color=ff69b1)]() [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE.txt) 
 
-[![Windows](https://img.shields.io/badge/Windows%2010-passing-258200?labelColor=00457d&logo=microsoft)](https://www.microsoft.com/pl-pl/software-download/windows10%20) [![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%2020__10-not%20planned-8c0000?labelColor=c25400&logo=ubuntu)](https://ubuntu.com)
+[![Windows](https://img.shields.io/badge/Windows%2010-passing-258200?logo=microsoft)](https://www.microsoft.com/pl-pl/software-download/windows10%20) [![Linux Ubuntu](https://img.shields.io/badge/Ubuntu%2020__10-not%20planned-8c0000?logo=ubuntu)](https://ubuntu.com)
 
 [![reposize](https://img.shields.io/github/repo-size/Milo46/Projekt-2e4?style=social)]()
 
