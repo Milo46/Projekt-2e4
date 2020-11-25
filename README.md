@@ -216,6 +216,29 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 7.1 Koncept postaci
   
+  Ignác
+Joseph
+Vaclav
+Stalen
+Dimitrij
+Alexandr
+Kateřina
+Maria
+Tomas
+Peter
+Filip
+Jaroslav
+Vit
+Boleslav
+Kazimir
+Slavek
+Andrei
+Bohdan
+Fedir
+Petro
+Pawlo
+Rostyslav
+
   ### 7.2 Kreacja postaci
   
   ### 7.3 Interakcja z odbiorcą
