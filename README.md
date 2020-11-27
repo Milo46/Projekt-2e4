@@ -1,4 +1,4 @@
-### WYCIEK
+### Projekt 2e4 - WYCIEK
 
 - - -
 
