@@ -29,7 +29,7 @@ Podział na etapy zaawansowania elementów projektu:
 
 - - -
 
-***Stan na dzień: 4.11.2020 r.***
+***Stan na dzień: 2.12.2020 r.***
 
 <table style="width:120%">
   <tr>
