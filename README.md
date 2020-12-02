@@ -200,13 +200,27 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ## 5. Postać i typ gry
   
-  Tytuł gry: WYCIEK
-  Sposób realizacji świata przedstawionego: projektowana i budowana na bazie silnika Unity w wersji 2019.4.14f1 z nakładką Github-for-Unity w wersji github-for-unity-1.4.0.6503.
-  Licencja open-source: dozwolone korzystanie z obiektów osób trzecich (royalty-free / free) z jednoczesnym ograniczeniem wykorzystywania wcześniej wspomnianych treści (bo się dzieciaki chcą napracować).
+  5.1 Tytuł gry: WYCIEK
   
-  Typ i krótki opis gry: RPG w świecie bliskiej przyszłości i systemu autorytarnego pewnego państwa, rok 2031.
-  Umiejscowienie początku akcji: więzienie, cela nr 50, początek jesieni, rok 2031.
-  Wygląd ogólny gry: usytuowanie 2,5 wymiarowej, semi-izometrycznej kamery świata (bez widzialnych "sufitów"), neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
+  5.2 Sposób realizacji świata przedstawionego: 
+  
+  projektowana i budowana na bazie silnika Unity w wersji 2019.4.14f1 z nakładką Github-for-Unity w wersji github-for-unity-1.4.0.6503.
+  
+  5.3 Licencja open-source: 
+  
+  dozwolone korzystanie z obiektów osób trzecich (royalty-free / free) z jednoczesnym ograniczeniem wykorzystywania wcześniej wspomnianych treści (bo się dzieciaki chcą napracować).
+  
+  5.4 Typ i krótki opis gry: 
+  
+  RPG w świecie bliskiej przyszłości i systemu autorytarnego pewnego państwa, rok 2031.
+  
+  5.5 Umiejscowienie początku akcji: 
+  
+  więzienie, cela nr 50, początek jesieni, rok 2031.
+  
+  5.6 Wygląd ogólny gry: 
+  
+  usytuowanie 2,5 wymiarowej, semi-izometrycznej kamery świata (bez widzialnych "sufitów"), neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
   
   	
 
