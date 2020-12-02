@@ -57,8 +57,9 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  - [6. Fabuła gry](#6-fabuła-gry)
  
 	* [6.1 Wstęp narracyjny](#61-wstęp-narracyjny)
+	* [6.2 Fabuła gry](#62-fabuła-gry)
 	
- - [7. Bohaterowie](#7-bohaterowie)
+ - [7. Bohaterowie](#7-bohaterowie) 6.2 Fabuła gry
   
 	* [7.1 Koncept postaci](#71-koncept-postaci)
 	* [7.2 Kreacja postaci](#72-kreacja-postaci)
@@ -199,7 +200,30 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ## 5. Postać i typ gry
   
-	Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której 
+  Tytuł gry: WYCIEK
+  Sposób realizacji świata przedstawionego: projektowana i budowana na bazie silnika Unity w wersji 2019.4.14f1 z nakładką Github-for-Unity w wersji github-for-unity-1.4.0.6503.
+  Licencja open-source: dozwolone korzystanie z obiektów osób trzecich (royalty-free / free) z jednoczesnym ograniczeniem wykorzystywania wcześniej wspomnianych treści (bo się dzieciaki chcą napracować).
+  
+  Typ i krótki opis gry: RPG w świecie bliskiej przyszłości i systemu autorytarnego pewnego państwa, rok 2031.
+  Umiejscowienie początku akcji: więzienie, cela nr 50, początek jesieni, rok 2031.
+  Wygląd ogólny gry: usytuowanie 2,5 wymiarowej, semi-izometrycznej kamery świata (bez widzialnych "sufitów"), neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
+  
+  	
+
+  - - -
+  
+  ## 6. Fabuła gry
+  
+  ### 6.1 Wstęp narracyjny
+  
+  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater - *imie* - pamięta dokładnie 
+  
+  
+  gościu se trafia do lochu, wymazujo pamiec i nic nie pamieta!!!!!!!!, tak naprawde był nowo wybranym przywodca z checia zmian w panstwie ale jego podwladni poddali go terapii relaksujacej ktora doprowadzila do utraty pamieci, nastepenie wpooili mu nowy system wartosci tak azeby wrocil tamten stary system taki komunistyczny, ReInDoKtRyNaCjA,
+  
+  ### 6.2 Fabuła gry
+  
+  Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której 
 	nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała 
 	istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. 
 	Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą 
@@ -216,18 +240,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 	Śmierć.
 	
 	Może to wszystko… Fikcja.
-
-  - - -
-  
-  ## 6. Fabuła gry
-  
-  ### 6.1 Wstęp narracyjny
-  
-  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater - *imie* - pamięta dokładnie 
-  
-  
-  gościu se trafia do lochu, wymazujo pamiec i nic nie pamieta!!!!!!!!, tak naprawde był nowo wybranym przywodca z checia zmian w panstwie ale jego podwladni poddali go terapii relaksujacej ktora doprowadzila do utraty pamieci, nastepenie wpooili mu nowy system wartosci tak azeby wrocil tamten stary system taki komunistyczny, ReInDoKtRyNaCjA,
-  
+	
   - - -
   
   ## 7. Bohaterowie
