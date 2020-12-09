@@ -210,7 +210,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   **Umiejscowienie początku akcji:** więzienie, cela nr 50, początek jesieni, rok 2031.
   
-  **Wygląd ogólny gry:** usytuowanie 2,5 wymiarowej, semi-izometrycznej kamery świata (bez widzialnych "sufitów"), neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
+  **Wygląd ogólny gry:** usytuowanie 3-wymiarowej, monoizometrycznej kamery świata, w płaszczyźnie poziomej, neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
   
   	
 
