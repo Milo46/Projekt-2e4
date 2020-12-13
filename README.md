@@ -210,17 +210,15 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   **Umiejscowienie początku akcji:** więzienie, cela nr 50, początek jesieni, rok 2031.
   
-  **Wygląd ogólny gry:** usytuowanie 3-wymiarowej, monoizometrycznej kamery świata, w płaszczyźnie poziomej, neutralne oświetlenie, oniekty low-poly i postaci mid-low-poly.
+  **Wygląd ogólny gry:** usytuowanie 3-wymiarowej, monoizometrycznej kamery świata, w płaszczyźnie poziomej, neutralne oświetlenie, obiekty mid-poly i postaci mid-low-poly.
   
-  	
-
   - - -
   
   ## 6. Fabuła gry
   
   ### 6.1 Wstęp narracyjny
   
-  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater - *imie* - pamięta dokładnie 
+  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater pamięta dokładnie piękne dni. Wolność 
   
   
   gościu se trafia do lochu, wymazujo pamiec i nic nie pamieta!!!!!!!!, tak naprawde był nowo wybranym przywodca z checia zmian w panstwie ale jego podwladni poddali go terapii relaksujacej ktora doprowadzila do utraty pamieci, nastepenie wpooili mu nowy system wartosci tak azeby wrocil tamten stary system taki komunistyczny, ReInDoKtRyNaCjA,
