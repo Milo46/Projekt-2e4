@@ -39,11 +39,13 @@ Podział na etapy zaawansowania elementów projektu:
   </tr>
   <tr>
     <td>wersja 64-bitowa</td>
-    <td>fully concept</td> 
+    <td>already finished</td> 
+    <td>16.12.2020</td>
   </tr>
  <tr>
     <td>zarządzanie plikami i darmowymi dodatkami</td>
-    <td>fully concept</td> 
+    <td>already finished</td>
+    <td>16.12.2020</td>
   </tr>
  <tr>
     <td>tworzenie skryptów graficznych</td>
@@ -59,7 +61,8 @@ Podział na etapy zaawansowania elementów projektu:
   </tr>
  <tr>
     <td>ustawienie I/O dla urzazeń peryferyjnych</td>
-    <td>fully concept</td> 
+    <td>already finished</td> 
+    <td>14.12.2020</td>
   </tr>
 </table>
 
@@ -170,15 +173,15 @@ Lines, schedules, tours
   </tr>
   <tr>
     <td>zarys fabuły oraz ciągu akcji</td>
-    <td>fully concept</td> 
+    <td>party finished</td> 
   </tr>
  <tr>
     <td>zarys postaci pierwszo-, drugo-, trzecioplanowych oraz tła</td>
-    <td>fully concept</td> 
+    <td>party finished</td> 
   </tr>
  <tr>
     <td>finalny plan fabularno-kanwowy wraz z gotowymi postaciami i obiektami żywymi</td>
-    <td>fully concept</td> 
+    <td>party finished</td> 
   </tr>
  <tr>
     <td>mapa świata: elementy 2D</td>
@@ -190,7 +193,7 @@ Lines, schedules, tours
   </tr>
  <tr>
     <td>mapa świata: </td>
-    <td>fully concept</td> 
+    <td>party finished</td> 
   </tr>
 </table>
 
