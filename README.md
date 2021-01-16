@@ -29,7 +29,7 @@ Podział na etapy zaawansowania elementów projektu:
 
 - - -
 
-***Stan na dzień: 3.12.2020 r.***
+***Stan na dzień: 16.01.2021 r.***
 
 <table style="width:120%">
   <tr>
@@ -149,21 +149,19 @@ poświata, blending, normal-mapy</td>
     <td>dźwięki: głośność zależna, enviro-style</td>
     <td>not yet begun</td> 
   </tr>
+  <tr>
+    <td>ścieżki (faza konecpycjna: pola) SI</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>konstrukcje wielowierzchołkowe</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>konstrukcje nieeuklidesowe, powierzchnie optyki Gaussa</td>
+    <td>not yet begun</td> 
+  </tr>
 </table>
-
-
-Track and switch construction
-Laying splines and polygons
-Placing objects
-Catenaries
-Placing maps on the real world model
-Display world map beneath the terrain
-Import Digital elevation model
-Bridge and tunnel construction
-Free-form and paint terrain
-AI paths
-Further catenaries (span bridges, ...)
-Lines, schedules, tours
 
 <table style="width:120%">
   <tr>
@@ -192,59 +190,35 @@ Lines, schedules, tours
     <td>not yet begun</td> 
   </tr>
  <tr>
-    <td>mapa świata: </td>
+    <td>mapa świata: obiekty półprzenikające</td>
     <td>party finished</td> 
+  </tr>
+  <tr>
+    <td>sterowanie i układy SI (postaci, obiekty ruchome)</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>in-game-GUI z elementami interakcji pierwszoplanowej</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>rozgałęzienie ścieżek rozwoju / minimum dwa zakończenia</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>(niecałkowita) możliwość customizowania wyglądu postaci</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>system ról -> prawa, wolności, obowiązki, nakazy, zakazy etc. nadawane konkretnym osobom</td>
+    <td>not yet begun</td> 
+  </tr>
+  <tr>
+    <td>radio i inne aktywne elementy tła gry</td>
+    <td>not yet begun</td> 
   </tr>
 </table>
 
-AI
-Pedestrians, passengers, passersby
-Road traffic (simple, complex)
-Scheduled traffic
-Passenger interactions
-Gameplay
-Free train configuration
-Realtime help system upon maloperation, vehicle-individually
-Drive by schedule, tours and routes
-Multiplayer
-Load multiple maps simultaneously
-World for real and world for fictional and semi-real maps
-General gameplay features, like group management, game creation, join game, chat, virtual companies, calendar, ...
-Game leader features: Assign roles, tasks, duties, vehicles, change of the environment
-Headquarters
-Radio
-Configuration of the own appearance in the simulator
-Statistics, rankings, achievements
-
-Content
-
-Map-Editor
-Streets and crossings construction
-Track and switch construction
-Laying splines and polygons
-Placing objects
-Catenaries
-Placing maps on the real world model
-Display world map beneath the terrain
-Import Digital elevation model
-Bridge and tunnel construction
-Free-form and paint terrain
-AI paths
-Further catenaries (span bridges, ...)
-Lines, schedules, tours
-
-Content-Tool
-Comprehensive content management system
-Import of vehicles and scenery objects
-Comprehensive configurations of animation, lightings, vehicle behaviour, even complex car configurations like Z-positions and Jacobs Bogies
-Vehicle scripts and script simulation
-Configuration of displays (matrix etc.) at the vehicle
-Mesh animations
-Particle systems on vehicles
-Comprehensive configurations of materials, including night textures and surfaces
-Modularisation of vehicles, e.g. displays, printers, passenger information
-Repaints
-Vehicle individualisation and details (car numbers, constructor and model information, vehicle-number-specific defects)
  - - - 
  ### License
  MIT © GitHub
