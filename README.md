@@ -286,16 +286,30 @@ Rostyslav
   
   ## 9. Cuda
   
+  *PRACE NAD WYŻEJ UMIESZCZONYM FRAGMENTEM ROZDZIAŁU (punkty 7. do 9.) ZOSTANĄ WSTRZYMANE DO MOMENTU WYDANIA WERSJI ALPHA GRY, PONIEWAŻ Z POWODÓW CZYSTO NIEZALEŻNYCH MOŻLIWE JEST WKRADANIE SIĘ DROBNYCH NIEPRAWIDŁOWOŚCI ORAZ BŁĘDÓW MERYTORYCZNYCH DO OPISÓW ZWIĄZANYCH STRICTE Z GRĄ - TAKI STAN RZECZY NIE MOŻE SIĘ UTRZYMYWAĆ, ABY DOCELOWO NIE DEZORIENTOWAĆ ODBIORCY* 
+  
   - - -
   
   ## 10. Podsumowanie
-  
+	
+	Wszystkie treści, materiały oraz elementy graficzne umieszczone w Projekcie są własnością materialną, a także intelektualną członków Grupy Projektowej oraz studia MAAJKeL Studios. 
+	Niniejszym z dniem 16 stycznia 2021 roku stają się elementem nierejestrowanej działalności cyberprzemysłowej i chronione są prawem autorskim, które przysługuje studiu MAAJKeL Studios.
+
   ### 10.1 Fabuła i prawa autorskie 
   
+	Elementy fabuły, zarysy, jak i również ostateczne modele psychofizyczne postaci, skrypt dialogowy, scenograficzny itp. znajdują się w posiadaniu Podmiotów (pierwszoosobowych) Grupy Projektowej. 
+	Całość prezentowanego efektu prac stanowi własność tych Podmiotów i jest tworem materialnym w rozumieniu ustawy z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. Nr 90, poz. 631). 
+	Żadna jego część nie może być rozpowszechniana lub kopiowana w jakikolwiek sposób (elektroniczny, mechaniczny lub inny) bez wyrażonej stanowczej zgody MAAJKeL Studios.
+
   ### 10.2 Bohaterowie i prawa autorskie 
   
+	Wszelkie podobieństwa do osób i zdarzeń występujących na łamach skryptu fabularnego, kreacyjnego bądź w obiekcie gry są przypadkowe. 
+	
   ### 10.3 Postanowienia końcowe 
   
+	Autorskie klauzule prawne oraz prawnokońcowe mają swoje zatwierdzenie w ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. Nr 90, poz. 631), w rozdziale III, oddział 1, art. 16. Nieprzestrzeganie ich postanowień może grozić stopniowo narastającymi konsekwencjami karnymi.
+	Większość (z inwentaryzacji przeprowadzonej 16.01.2021 r. jest to 97,1563% wszystkich materiałów potrzebnych przy tworzeniu gry) własności intelektualnych i duchowych stworzonych przez Podmioty Grupy Projektowej dostępnych jest w galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp) - wykorzystywanie, edycja, publikowanie, negacja oraz bezczeszczenie materiałów tam zawartych bez uprzedniej zgody MAAJKeL Studios jest prawnie wzbronione.
+
 ===
  
  # O ŚRODOWISKU, LICENCJACH i INNYCH URZĘDOWYCH PRZESZKODACH
@@ -304,8 +318,12 @@ Rostyslav
   
   Informacje o środowisku programistycznym gry znajdują się w dokumentacji galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp). 
   
-  Praca nad Projektem odbywa się w warunkach domowych, z zachowaniem wszelkich (dostosowanych do obecnej sytuacji) wymogów sanitarnych dot. przebywania młodzieży szkolnej do 18 r. ż. przed ekranem stacji roboczych lub urządzeń telekomunikacyjnych 
- 
+  Praca nad Projektem odbywa się w warunkach domowych, z zachowaniem wszelkich (dostosowanych do obecnej sytuacji) wymogów sanitarnych dot. przebywania młodzieży szkolnej do 18 r. ż. przed ekranem stacji roboczych i/lub urządzeń telekomunikacyjnych.
+  Przewodniczący Grupy Projektowej dochowuje wszelkich starań, aby środowisko, w którym przychodzi współpracować Grupie Projektowej było przyjazne, przyjacielskie oraz otwarte na nowe propozycje.
+  Jednocześnie wymaga się od wszystkich członków Grupy Projektowej solidnej rzetelności, sprawiedliwości, lojalności oraz wyrozumiałości w przypadku popełnienia przez innego członka - o mniejszym bądź o większym wpływie na pracę Grupy Projektowej - błędu.
+  
+  Naszą dywizą jest: "Siedź w piwnicy, aż ktoś przyniesie Ci jedzenie" - członkowie Grupy Projektowej wykazują coraz intensywniejsze sygnały drzemiącego w nich potencjału. 
+  Te dwie wartości powinny utwierdzać osoby trzecie (niezwane w tym zakresie treści "Podmiotami Współpracującymi") o przestrzeganiu wszelkich praw i obowiązków, nakazów i zakazów. Stanowią także doskonały fundament pracy w zespole, który w połączeniu z nieuniknionymi warunkami pandemicznymi, rodzą doskonałe twory.
  
  - - - 
  
