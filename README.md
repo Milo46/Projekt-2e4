@@ -66,9 +66,9 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 	* [7.3 Interakcja z odbiorcą](#73-interakcja-z-odbiorcą)
 	* [7.4 Odtwórczość fabularna](#74-odtwórczość-fabularna)
 	
- - [8. inne](#8-inne)
+ - [8. Mapa / Świat przedstawiony](#8-mapa-/-świat-przedstawiony)
   
- - [9. cuda](#9-cuda)
+ - [9. Kod źródłowy](#9-kod-źródłowy)
   
  - [10. Podsumowanie](#10-podsumowanie)
  
@@ -108,7 +108,8 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
  
  1.2.1.3 Jan Kuffel, uczeń klasy IIe(4) – do zadań podmiotu należy 
  - gałąź nr 1: character and variety design, concept manager; 
- - gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding).
+ - gałąź nr 2 (punkt 1.4.2): wykonawstwo i nadzór programistyczny zaplanowanych prac projektowych (coding);
+ - gałąź nr 3: dusza zespołu.
  
  1.2.2.	Podmioty wchodzące w skład zespołu prac graficznych mają obowiązek publikacji swoich prac oraz zmian w kodzie gry w odpowiednich gałęziach (*branches*) projektu na platformie GitHub.
  
@@ -192,7 +193,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   <a href="https://imgur.com/Wm0LNXA"><img src="https://i.imgur.com/Wm0LNXA.png" title="source: imgur.com" /></a>
   
-  *Ankieta przedstawiająca ostateczny zarys fabularno-realizatorski z wyłączeniem zgadanień robotniczo-programistyczno-wykonawczych.*
+  *Ankieta przedstawiająca ostateczny zarys fabularno-realizatorski z wyłączeniem zagdnień robotniczo-programistyczno-wykonawczych.*
   *Faktyczny postęp nad grą rejestrowany będzie w gałęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp).*
   *Nie gwarantujemy dokładnej zgodności opisu z finalną wersją gry. To nie nasza wina, że wymyślamy za dużo rzeczy.*
   
@@ -218,59 +219,23 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 6.1 Wstęp narracyjny
   
-  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia, ciemności i nicości. Główny bohater pamięta dokładnie piękne dni. Wolność 
-  
-  
-  gościu se trafia do lochu, wymazujo pamiec i nic nie pamieta!!!!!!!!, tak naprawde był nowo wybranym przywodca z checia zmian w panstwie ale jego podwladni poddali go terapii relaksujacej ktora doprowadzila do utraty pamieci, nastepenie wpooili mu nowy system wartosci tak azeby wrocil tamten stary system taki komunistyczny, ReInDoKtRyNaCjA,
+  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia murów, ciemności i nicości. Główny bohater pamięta dokładnie piękne dni. Wolność... Główny bohater, <bohater> budzi się z długiej śpiączki, w nieznanym miejscu, nie pamiętając niczego. Musi dowiedzieć się jak najwięcej o swojej przeszłości, a także, wspólnie z jego najlepszym przyjacielem i jego ludźmi, ocalić ojczyznę spod rąk krwawego tyrana.
   
   ### 6.2 Fabuła gry
   
-  Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której 
-	nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała 
-	istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. 
-	Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą 
-	najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto 
-	było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie 
-	zaginęła… i być może nie wróci…
+  Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie zaginęła… i być może nie wróci… Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita z powrotem w twoim życiu. Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. Przypomnisz sobie każdy swój błąd, będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego *miasta*…
+
+Początek. Loch. Strażnik. Gonitwa z czasem. Kłamstwo.
+
+Śmierć.
 	
-	Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita 
-	z powrotem w twoim życiu. 	Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość 
-	i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. 	Przypomnisz sobie każdy swój błąd, 
-	będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego *miasta*.
-	…
-	Początek. Loch. Strażnik. Gonitwa z czasem. Kłamstwo.
-	Śmierć.
-	
-	Może to wszystko… Fikcja.
+Może to wszystko… Fikcja.
 	
   - - -
   
   ## 7. Bohaterowie
   
   ### 7.1 Koncept postaci
-  
-  Ignác
-Joseph
-Vaclav
-Stalen
-Dimitrij
-Alexandr
-Kateřina
-Maria
-Tomas
-Peter
-Filip
-Jaroslav
-Vit
-Boleslav
-Kazimir
-Slavek
-Andrei
-Bohdan
-Fedir
-Petro
-Pawlo
-Rostyslav
 
   ### 7.2 Kreacja postaci
   
@@ -280,11 +245,11 @@ Rostyslav
   
   - - -
   
-  ## 8. inne
+  ## 8. Mapa / Świat przedstawiony
   
   - - -
   
-  ## 9. Cuda
+  ## 9. Kod źródłowy
   
   *PRACE NAD WYŻEJ UMIESZCZONYM FRAGMENTEM ROZDZIAŁU (punkty 7. do 9.) ZOSTANĄ WSTRZYMANE DO MOMENTU WYDANIA WERSJI ALPHA GRY, PONIEWAŻ Z POWODÓW CZYSTO NIEZALEŻNYCH MOŻLIWE JEST WKRADANIE SIĘ DROBNYCH NIEPRAWIDŁOWOŚCI ORAZ BŁĘDÓW MERYTORYCZNYCH DO OPISÓW ZWIĄZANYCH STRICTE Z GRĄ - TAKI STAN RZECZY NIE MOŻE SIĘ UTRZYMYWAĆ, ABY DOCELOWO NIE DEZORIENTOWAĆ ODBIORCY* 
   
