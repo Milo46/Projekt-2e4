@@ -20,8 +20,6 @@ Przeciwności, z którymi musimy się zmierzyć, często sprawiają, że stajemy
 
 Ludzie, którzy tracą czas czekając, aż zaistnieją najbardziej sprzyjające warunki, nigdy nic nie zdziałają. Najlepszy czas na działanie jest teraz! - Mark Fisher
 
-Nowe osiągnięcia dają ci więcej powodów do dumy z siebie samego, co jest napędem do dążenia dalej - również Miłosz Brzechczyn (zmarnowałem na to z ok. 15 minut)
-
 Mądrzy ciągle się uczą, głupcy najczęściej wszystko umieją. - Apolinary Despinoix
 
 Motywacja jest tym co pozwala Ci zacząć. Nawyk jest tym co pozwala Ci wytrwać! - Stephen Covey
