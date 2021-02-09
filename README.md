@@ -66,7 +66,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 	* [7.3 Interakcja z odbiorcą](#73-interakcja-z-odbiorcą)
 	* [7.4 Odtwórczość fabularna](#74-odtwórczość-fabularna)
 	
- - [8. Mapa / Świat przedstawiony](#8-mapa-/-świat-przedstawiony)
+ - [8. Świat przedstawiony](#8-świat-przedstawiony)
   
  - [9. Kod źródłowy](#9-kod-źródłowy)
   
@@ -223,7 +223,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 6.2 Fabuła gry
   
-  Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie zaginęła… i być może nie wróci… Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita z powrotem w twoim życiu. Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. Przypomnisz sobie każdy swój błąd, będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego *miasta*…
+  > Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie zaginęła… i być może nie wróci… Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita z powrotem w twoim życiu. Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. Przypomnisz sobie każdy swój błąd, będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego *miasta*…
 
 Początek. Loch. Strażnik. Gonitwa z czasem. Kłamstwo.
 
@@ -245,7 +245,7 @@ Może to wszystko… Fikcja.
   
   - - -
   
-  ## 8. Mapa / Świat przedstawiony
+  ## 8. Świat przedstawiony
   
   - - -
   
