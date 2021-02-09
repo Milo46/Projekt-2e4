@@ -75,28 +75,28 @@ Podział na etapy zaawansowania elementów projektu:
   <tr>
     <td>rendering terenu i powierzchni</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>14.01.2021</td>
   </tr>
  <tr>
     <td>rendering scenerii, postaci, trójkątów/map obiektów </td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>17.01.2021</td>
   </tr>
  <tr>
     <td>efekty, takie jak: dynamiczne oświetlenie, cienie, 
 poświata, blending, normal-mapy</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>17.01.2021</td>
   </tr>
  <tr>
     <td>prosty system cząsteczek</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>21.01.2021</td>
   </tr>
  <tr>
     <td>symultaniczne refleksje powietrzne i środowiskowe</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>22.01.2021</td>
   </tr>
  <tr>
     <td>cykl dnia i nocy, pozycja słońca</td>
@@ -113,7 +113,7 @@ poświata, blending, normal-mapy</td>
  <tr>
     <td>otoczenie ogólne, natura statyczna</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>14.01.2021</td>
   </tr>
 </table>
 
@@ -126,12 +126,12 @@ poświata, blending, normal-mapy</td>
   <tr>
     <td>ruch postaci, kierunki świata</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>24.01.2021</td>
   </tr>
  <tr>
     <td>ruchy względne obiektów wokół głównej akcji gry</td>
     <td>already finished</td>
-    <td>16.01.2021</td>
+    <td>25.01.2021</td>
   </tr>
  <tr>
     <td>switche i flagi fizyki ogólnej</td>
@@ -186,7 +186,7 @@ poświata, blending, normal-mapy</td>
  <tr>
     <td>zarys postaci pierwszo-, drugo-, trzecioplanowych oraz tła</td>
     <td>already finished</td> 
-    <td>27.12.2020</td>
+    <td>28.12.2020</td>
   </tr>
  <tr>
     <td>finalny plan fabularno-kanwowy wraz z gotowymi postaciami i obiektami żywymi</td>
