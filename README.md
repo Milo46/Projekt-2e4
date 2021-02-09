@@ -230,7 +230,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 > Śmierć.
 	
 > Może to wszystko… Fikcja.
-	
+&nbsp;	
   - - -
   
   ## 7. Bohaterowie
