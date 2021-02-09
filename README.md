@@ -29,11 +29,11 @@ Podział na etapy zaawansowania elementów projektu:
 
 - - -
 
-***Stan na dzień: 16.01.2021 r.***
+***Stan na dzień: 09.02.2021 r.***
 
 <table style="width:120%">
   <tr>
-    <th>Elementy silnika gry</th> 
+    <th style="">Elementy silnika gry</th> 
     <th>Stan zaawansowania</th>
     <th>Data ukończenia</th>
   </tr>
