@@ -49,11 +49,11 @@ Podział na etapy zaawansowania elementów projektu:
   </tr>
  <tr>
     <td>tworzenie skryptów graficznych</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
  <tr>
     <td>API pluginów</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
  <tr>
     <td>wsparcie techniki VR</td>
@@ -74,24 +74,29 @@ Podział na etapy zaawansowania elementów projektu:
   </tr>
   <tr>
     <td>rendering terenu i powierzchni</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>rendering scenerii, postaci, trójkątów/map obiektów </td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>efekty, takie jak: dynamiczne oświetlenie, cienie, 
 poświata, blending, normal-mapy</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>prosty system cząsteczek</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>symultaniczne refleksje powietrzne i środowiskowe</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>cykl dnia i nocy, pozycja słońca</td>
@@ -107,7 +112,8 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>otoczenie ogólne, natura statyczna</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
 </table>
 
@@ -119,11 +125,13 @@ poświata, blending, normal-mapy</td>
   </tr>
   <tr>
     <td>ruch postaci, kierunki świata</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>ruchy względne obiektów wokół głównej akcji gry</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
  <tr>
     <td>switche i flagi fizyki ogólnej</td>
@@ -135,7 +143,7 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>dźwięki: pokoje, rozchodzenie się fal w pomieszczeniach</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
  <tr>
     <td>dźwięki: różnice wewnętrzne i zewnętrzne w otoczeniu gracza</td>
@@ -147,7 +155,7 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>dźwięki: głośność zależna, enviro-style</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
   <tr>
     <td>ścieżki (faza konecpycjna: pola) SI</td>
@@ -155,7 +163,8 @@ poświata, blending, normal-mapy</td>
   </tr>
   <tr>
     <td>konstrukcje wielowierzchołkowe</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+    <td>16.01.2021</td>
   </tr>
   <tr>
     <td>konstrukcje nieeuklidesowe, powierzchnie optyki Gaussa</td>
@@ -171,11 +180,13 @@ poświata, blending, normal-mapy</td>
   </tr>
   <tr>
     <td>zarys fabuły oraz ciągu akcji</td>
-    <td>party finished</td> 
+    <td>already finished</td>
+    <td>27.12.2020</td>
   </tr>
  <tr>
     <td>zarys postaci pierwszo-, drugo-, trzecioplanowych oraz tła</td>
-    <td>party finished</td> 
+    <td>already finished</td> 
+    <td>27.12.2020</td>
   </tr>
  <tr>
     <td>finalny plan fabularno-kanwowy wraz z gotowymi postaciami i obiektami żywymi</td>
@@ -187,7 +198,7 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>mapa świata: elementy 3D</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
  <tr>
     <td>mapa świata: obiekty półprzenikające</td>
@@ -199,7 +210,7 @@ poświata, blending, normal-mapy</td>
   </tr>
   <tr>
     <td>in-game-GUI z elementami interakcji pierwszoplanowej</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
   <tr>
     <td>rozgałęzienie ścieżek rozwoju / minimum dwa zakończenia</td>
