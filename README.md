@@ -65,20 +65,18 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
 	* [7.2 Kreacja postaci](#72-kreacja-postaci)
 	* [7.3 Interakcja z odbiorcą](#73-interakcja-z-odbiorcą)
 	* [7.4 Odtwórczość fabularna](#74-odtwórczość-fabularna)
-	
- - [8. Świat przedstawiony](#8-świat-przedstawiony)
   
- - [9. Kod źródłowy](#9-kod-źródłowy)
+ - [8. Kod źródłowy](#8-kod-źródłowy)
   
- - [10. Podsumowanie](#10-podsumowanie)
+ - [9. Podsumowanie](#9-podsumowanie)
  
-	* [10.1 Fabuła i prawa autorskie](#101-fabuła-i-prawa-autorskie)
-	* [10.2 Bohaterowie i prawa autorskie](#102-bohaterowie-i-prawa-autorskie)
-	* [10.3 Postanowienia końcowe](#103-postanowienia-końcowe)
+	* [9.1 Fabuła i prawa autorskie](#91-fabuła-i-prawa-autorskie)
+	* [9.2 Bohaterowie i prawa autorskie](#92-bohaterowie-i-prawa-autorskie)
+	* [9.3 Postanowienia końcowe](#93-postanowienia-końcowe)
   
  #### O ŚRODOWISKU, LICENCJACH i INNYCH URZĘDOWYCH PRZESZKODACH, CZEGO JAKO GRACZE WIEDZIEĆ NIE CHCEMY
  
- - [11. Środowisko socjalno-programistyczne](#11-środowisko-socjalno-programistyczne)
+ - [10. Środowisko socjalno-programistyczne](#10-środowisko-socjalno-programistyczne)
   
   
 ===
@@ -219,11 +217,11 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 6.1 Wstęp narracyjny
   
-  Akcja gry rozpoczyna się... pośród niezmierzonego pustkowia murów, ciemności i nicości. Główny bohater pamięta dokładnie piękne dni. Wolność... Główny bohater, <bohater> budzi się z długiej śpiączki, w nieznanym miejscu, nie pamiętając niczego. Musi dowiedzieć się jak najwięcej o swojej przeszłości, a także, wspólnie z jego najlepszym przyjacielem i jego ludźmi, ocalić ojczyznę spod rąk krwawego tyrana.
+  Akcja gry rozpoczyna się... pośród niezmierzonej ciągłości murów, ciemności i nicości. Główny bohater pamięta dokładnie piękne dni. Wolność... Główny bohater, <bohater> budzi się z długiej śpiączki, w nieznanym miejscu, nie pamiętając niczego. Musi dowiedzieć się jak najwięcej o swojej przeszłości, a także, wspólnie z jego najlepszym przyjacielem i jego ludźmi, ocalić ojczyznę spod rąk socjopatycznego tyrana.
   
   ### 6.2 Fabuła gry
   &nbsp;
-  > Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do lochu zjawia się wysoka postać, której nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie zaginęła… i być może nie wróci… Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita z powrotem w twoim życiu. Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. Przypomnisz sobie każdy swój błąd, będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego miasta…
+  > Ktoś szarpie za kraty. Budzisz się w nieznanym ci świecie. U wejścia do celi zjawia się wysoka postać, której nie rozpoznajesz. Strażnik. Czas działa na twoją niekorzyść - warto się spieszyć? Twoja tożsamość przestała istnieć, a światło, które tak często widywałeś, zamarło na zawsze w Twoim sercu. Miejsce spokoju zajął strach. Strach, który miażdży nadzieję, znajduje i rujnuje najskrytsze myśli, a godzina utraty świadomości stała się tą najgorszą. Czy dasz radę odnaleźć swoją przeszłość - ukochane ulice, drzewa, koty i… innych ludzi. Tamto miasto było niegdyś inne. Próbujesz je odtworzyć w pamięci. Marzysz o powrocie do normalności, ale normalność w świecie zaginęła… i być może nie wróci… Wyciek… Przecież chciałeś jak najlepiej. To twoja jedyna szansa. Wykorzystując ją, utęskniona swoboda zawita z powrotem w twoim życiu. Przypomnisz sobie, kim byłeś, jesteś i będziesz. Wspomnisz swoją przeszłość i zaczniesz budować lepszą przyszłość. Wyciek… To nie miało tak wyglądać. Przypomnisz sobie każdy swój błąd, będziesz mógł je naprawić, wzniesiesz się powtórnie na wyżyny istnienia. Wrócisz do swojego ukochanego miasta…
 
 > Początek. Loch. Strażnik. Gonitwa z czasem. Kłamstwo.
 
@@ -237,31 +235,34 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 7.1 Koncept postaci
 
+  Koncept postaci narodził się w listopadzie '20 roku - był zaczątkiem zarówno kwestii fabularnej, jak i kwestii bohaterów stricte. Wiedza posiadana na tamten czas zamykała się w granicach polityki postaci, jej ugruntowań społecznych i roli w samej grze.
+  
   ### 7.2 Kreacja postaci
+  
+  Kolejnym etapem było przygotowanie konkretnych sylwetek - mozolne próby riggingu okazały się niespełniającymi odgórnie założone oczekiwania. W styczniu '21 roku zapada decyzja o wypróbowaniu platformy *MIXAMO Elements* prowadzonej przez firmę Adobe Inc., opiewającej w wiele postaci i animacji wprowadzanych przez społeczność. Wszystko gotowe do użycia na licencji copyright-free, czekające na implentację w czeluści kodowego ***spaghetti***. 
   
   ### 7.3 Interakcja z odbiorcą
   
+  Najtrudniejszym etapem było przygotowanie analizujących sytuację w grze w czasie rzeczywistym skryptów pozwalających na interakcję z postaciami - jest to bowiem system dialogów oparty o rozmieszczone na terenie mapy triggery - czujniki aktywności - wysyłające sygnał do skryptu, który to następnie aktywuje kolejne wiadomości i/lub wybory umiejscowione w zewnętrznym pliku mającym formę tzw. heap'u. Implementacja takowego rozwiązania nakazuje graczowi iść w odgórnie określonym kierunku (co w przypadku gry fabularnej jest bardzo ważnym elementem) oraz oszczędzić bardzo dużo mozolnej pracy wpisywania kolejnych kwestii dialogowych do systemu gry.
+  
   ### 7.4 Odtwórczość fabularna
   
+  Ukazane w grze postaci są postaciami żywymi (nadmienić trzeba, iż wszelkie podobieństwo do zdarzeń i postaci prawdziwych jest przypadkowe i nie ma na celu nikogo urazić), nawiązującymi do cech i wartości prawdziwego, w odczuciu twórców, nieprzyjemnego świata. W pliku tym nie zawrzemy dokładnego opisu każdej z postaci - niech będzie to zachęta do owocnej gry.
   - - -
   
-  ## 8. Świat przedstawiony
-  
-  - - -
-  
-  ## 9. Kod źródłowy
-  
-  *PRACE NAD WYŻEJ UMIESZCZONYM FRAGMENTEM ROZDZIAŁU (punkty 7. do 9.) ZOSTANĄ WSTRZYMANE DO MOMENTU WYDANIA WERSJI ALPHA GRY, PONIEWAŻ Z POWODÓW CZYSTO NIEZALEŻNYCH MOŻLIWE JEST WKRADANIE SIĘ DROBNYCH NIEPRAWIDŁOWOŚCI ORAZ BŁĘDÓW MERYTORYCZNYCH DO OPISÓW ZWIĄZANYCH STRICTE Z GRĄ - TAKI STAN RZECZY NIE MOŻE SIĘ UTRZYMYWAĆ, ABY DOCELOWO NIE DEZORIENTOWAĆ ODBIORCY* 
+  ## 8. Kod źródłowy
+ 
+  *treści objęte prawami autorskimi należącymi do Nadzorującego zespołu programistycznego p. Miłosza Brzechczyna; treść z dniem 8.05.2021 r. staje się niedostępna publicznie*
   
   - - -
   
-  ## 10. Podsumowanie
+  ## 9. Podsumowanie
 	
 Wszystkie treści, materiały oraz elementy graficzne umieszczone w Projekcie są własnością materialną, a także intelektualną członków Grupy Projektowej oraz studia MAAJKeL Studios. 
 
 Niniejszym z dniem 16 stycznia 2021 roku stają się elementem nierejestrowanej działalności cyberprzemysłowej i chronione są prawem autorskim, które przysługuje studiu MAAJKeL Studios.
 
-  ### 10.1 Fabuła i prawa autorskie 
+  ### 9.1 Fabuła i prawa autorskie 
   
 Elementy fabuły, zarysy, jak i również ostateczne modele psychofizyczne postaci, skrypt dialogowy, scenograficzny itp. znajdują się w posiadaniu Podmiotów (pierwszoosobowych) Grupy Projektowej. 
 
@@ -269,11 +270,11 @@ Całość prezentowanego efektu prac stanowi własność tych Podmiotów i jest 
 
 Żadna jego część nie może być rozpowszechniana lub kopiowana w jakikolwiek sposób (elektroniczny, mechaniczny lub inny) bez wyrażonej stanowczej zgody MAAJKeL Studios.
 
-  ### 10.2 Bohaterowie i prawa autorskie 
+  ### 9.2 Bohaterowie i prawa autorskie 
   
 Wszelkie podobieństwa do osób i zdarzeń występujących na łamach skryptu fabularnego, kreacyjnego bądź w obiekcie gry są przypadkowe. 
 	
-  ### 10.3 Postanowienia końcowe 
+  ### 9.3 Postanowienia końcowe 
   
 Autorskie klauzule prawne oraz prawnokońcowe mają swoje zatwierdzenie w ustawie z dnia 4 lutego 1994 r. o prawie autorskim i prawach pokrewnych (Dz. U. Nr 90, poz. 631), w rozdziale III, oddział 1, art. 16. Nieprzestrzeganie ich postanowień może grozić stopniowo narastającymi konsekwencjami karnymi.
 
@@ -283,7 +284,7 @@ Większość (na podstawie inwentaryzacji przeprowadzonej 16.01.2021 r. jest to 
  
  # O ŚRODOWISKU, LICENCJACH i INNYCH URZĘDOWYCH PRZESZKODACH
  
-  ## 11. Środowisko socjalno-programistyczne
+  ## 10. Środowisko socjalno-programistyczne
   
   Informacje o środowisku programistycznym gry znajdują się w dokumentacji galęzi [drp](https://github.com/Milo46/Projekt-2e4/tree/drp). 
   
