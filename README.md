@@ -29,7 +29,7 @@ Podział na etapy zaawansowania elementów projektu:
 
 - - -
 
-***Stan na dzień: 09.02.2021 r.***
+***Stan na dzień: 14.06.2021 r.***
 
 <table style="width:120%">
   <tr>
@@ -49,11 +49,13 @@ Podział na etapy zaawansowania elementów projektu:
   </tr>
  <tr>
     <td>tworzenie skryptów graficznych</td>
-    <td>currently in progress</td> 
+    <td>already finished</td> 
+	<td>09.04.2021</td>
   </tr>
  <tr>
     <td>API pluginów</td>
-    <td>currently in progress</td> 
+    <td>already finished</td> 
+	<td>09.04.2021</td>
   </tr>
  <tr>
     <td>wsparcie techniki VR</td>
@@ -99,16 +101,18 @@ poświata, blending, normal-mapy</td>
     <td>22.01.2021</td>
   </tr>
  <tr>
-    <td>cykl dnia i nocy, pozycja słońca</td>
-    <td>not yet begun</td> 
+    <td>implementacja cyklu dnia i nocy</td>
+    <td>already finished</td>
+	<td>21.01.2021</td>
   </tr>
  <tr>
     <td>stany pogodowe</td>
-    <td>not yet begun</td> 
+    <td>already finished</td> 
+	<td>15.03.2021</td>
   </tr>
  <tr>
     <td>pory roku odpowiadające dacie w grze</td>
-    <td>not yet begun</td> 
+    <td>not included</td> 
   </tr>
  <tr>
     <td>otoczenie ogólne, natura statyczna</td>
@@ -135,31 +139,37 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>switche i flagi fizyki ogólnej</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>28.03.2021</td>
   </tr>
  <tr>
     <td>fizyka otoczenia przyrodniczego</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>28.03.2021</td> 
   </tr>
  <tr>
     <td>dźwięki: pokoje, rozchodzenie się fal w pomieszczeniach</td>
-    <td>currently in progress</td> 
+    <td>already finished</td>
+	<td>12.02.2021</td> 	
   </tr>
  <tr>
     <td>dźwięki: różnice wewnętrzne i zewnętrzne w otoczeniu gracza</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>07.03.2021</td> 
   </tr>
  <tr>
     <td>dźwięki: kontrola skryptowa (odtwarzanie na żądanie)</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>07.03.2021</td> 
   </tr>
  <tr>
     <td>dźwięki: głośność zależna, enviro-style</td>
-    <td>currently in progress</td> 
+    <td>already finished</td>
+	<td>12.02.2021</td> 
   </tr>
   <tr>
     <td>ścieżki (faza konecpycjna: pola) SI</td>
-    <td>not yet begun</td> 
+    <td>not included</td> 
   </tr>
   <tr>
     <td>konstrukcje wielowierzchołkowe</td>
@@ -168,7 +178,8 @@ poświata, blending, normal-mapy</td>
   </tr>
   <tr>
     <td>konstrukcje nieeuklidesowe, powierzchnie optyki Gaussa</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>28.03.2021</td> 
   </tr>
 </table>
 
@@ -190,43 +201,47 @@ poświata, blending, normal-mapy</td>
   </tr>
  <tr>
     <td>finalny plan fabularno-kanwowy wraz z gotowymi postaciami i obiektami żywymi</td>
-    <td>party finished</td> 
+    <td>already finished</td>
+	<td>13.03.2021</td>
   </tr>
  <tr>
     <td>mapa świata: elementy 2D</td>
-    <td>not yet begun</td> 
+    <td>already finished</td>
+	<td>15.05.2021</td>	
   </tr>
  <tr>
     <td>mapa świata: elementy 3D</td>
-    <td>currently in progress</td> 
+    <td>26.05.2021</td>	
   </tr>
  <tr>
     <td>mapa świata: obiekty półprzenikające</td>
-    <td>party finished</td> 
+    <td>already finished</td>
+	<td>26.05.2021</td>	
   </tr>
   <tr>
     <td>sterowanie i układy SI (postaci, obiekty ruchome)</td>
-    <td>not yet begun</td> 
+    <td>not included</td> 
   </tr>
   <tr>
     <td>in-game-GUI z elementami interakcji pierwszoplanowej</td>
-    <td>currently in progress</td> 
+    <td>already finished</td>
+	<td>11.04.2021</td>
   </tr>
   <tr>
     <td>rozgałęzienie ścieżek rozwoju / minimum dwa zakończenia</td>
-    <td>not yet begun</td> 
+    <td>included in full version</td> 
   </tr>
   <tr>
     <td>(niecałkowita) możliwość customizowania wyglądu postaci</td>
-    <td>not yet begun</td> 
+    <td>not included</td> 
   </tr>
   <tr>
     <td>system ról -> prawa, wolności, obowiązki, nakazy, zakazy etc. nadawane konkretnym osobom</td>
-    <td>not yet begun</td> 
+    <td>currently in progress</td> 
   </tr>
   <tr>
     <td>radio i inne aktywne elementy tła gry</td>
-    <td>not yet begun</td> 
+    <td>not included</td> 
   </tr>
 </table>
 
