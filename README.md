@@ -12,7 +12,7 @@ Projekt gry komputerowej na potrzeby lekcji  `u_proj => elementy projektowania d
 
 ## Dokumentacja rozwoju Projektu
 
-**Dane zebrane w trakcie dwóch tygodni robót wykonawczych** przedstawione są w formie tabeli podzielonej na 3 kolumny:
+**Dane zebrane w trakcie robót wykonawczych** przedstawione są w formie tabeli podzielonej na 3 kolumny:
  - "Elementy silnika gry" - zadeklarowane działania podzielone na kategorie tematyczne elementów składowych gry sensu stricte oraz - w dalszej części - elementów składowych domyślnej zawartości gry;
  - "Stan zaawansowania" - omówienie poniżej;
  - "Data ukończenia" - planowana data ukończenia danego zadania projektowego założona przez Podmioty uczestniczące w danym zadaniu.
@@ -27,6 +27,19 @@ Podział na etapy zaawansowania elementów projektu:
 
 - **not yet begun** - niezaczęte bądź niezaprojektowane.
 
+Wydawane wersje zawierają litery nadające atrybuty - są to:
+
+- **pa** - pre-alpha (wersja deweloperska)
+
+- **a** - alpha (wersja deweloperska)
+
+- **cb** - closed-beta (wersja testowa)
+
+- **ob** - open-beta (wersja testowa publiczna)
+
+- **p** - presentation (wersja przygotowana i dostosowana na potrzeby prezentacji 06.21)
+
+- **r** - release (wersja publiczna) 
 - - -
 
 ***Stan na dzień: 14.06.2021 r.***
