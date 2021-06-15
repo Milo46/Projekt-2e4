@@ -243,7 +243,7 @@ Nazwa, stając się nierejestrowanym akronimem z dniem 15 października 2020 rok
   
   ### 7.3 Interakcja z odbiorcą
   
-  Najtrudniejszym etapem było przygotowanie analizujących sytuację w grze w czasie rzeczywistym skryptów pozwalających na interakcję z postaciami - jest to bowiem system dialogów oparty o rozmieszczone na terenie mapy triggery - czujniki aktywności - wysyłające sygnał do skryptu, który to następnie aktywuje kolejne wiadomości i/lub wybory umiejscowione w zewnętrznym pliku mającym formę tzw. heap'u. Implementacja takowego rozwiązania nakazuje graczowi iść w odgórnie określonym kierunku (co w przypadku gry fabularnej jest bardzo ważnym elementem) oraz oszczędzić bardzo dużo mozolnej pracy wpisywania kolejnych kwestii dialogowych do systemu gry.
+  Najtrudniejszym etapem było przygotowanie analizujących sytuację w grze w czasie rzeczywistym skryptów pozwalających na interakcję z postaciami - jest to bowiem system dialogów oparty o rozmieszczone na terenie mapy triggery - czujniki aktywności - wysyłające sygnał do skryptu, który to następnie aktywuje kolejne wiadomości i/lub wybory umiejscowione w zewnętrznym pliku mającym formę tzw. heap'u. Implementacja takowego rozwiązania nakazuje graczowi iść w odgórnie określonym kierunku (co w przypadku gry fabularnej jest bardzo ważnym elementem) oraz pozwala zaoszczędzić bardzo dużo mozolnej pracy wpisywania kolejnych kwestii dialogowych do autonomicznego systemu gry.
   
   ### 7.4 Odtwórczość fabularna
   
